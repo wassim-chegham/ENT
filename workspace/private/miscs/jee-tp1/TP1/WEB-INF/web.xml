@@ -1,0 +1,28 @@
+<web-app>
+
+	<servlet>
+		<servlet-class>com.sdz.control.Index</servlet-class>
+		<servlet-name>StartPage</servlet-name>
+	</servlet>
+	
+	<servlet>
+		<servlet-class>com.sdz.control.FormulaireAction</servlet-class>
+		<servlet-name>FormAction</servlet-name>
+	</servlet>
+	
+	<servlet-mapping>
+		<servlet-name>StartPage</servlet-name>
+		<url-pattern>/home</url-pattern>
+	</servlet-mapping>
+	
+	<servlet-mapping>
+		<servlet-name>StartPage</servlet-name>
+		<url-pattern>/</url-pattern>
+	</servlet-mapping>
+	
+	<servlet-mapping>
+		<servlet-name>FormAction</servlet-name>
+		<url-pattern>*.do</url-pattern>
+	</servlet-mapping>
+	
+</web-app>

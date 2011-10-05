@@ -1,0 +1,704 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<opml version="1.0">
+	<head>
+		<title>Sage OPML Export</title>
+	</head>
+	<body>
+		<outline text="Sage Feeds">
+			<outline text="Le Journal du Geek">
+				<outline type="rss" text="Un caméscope à objectif interchangeable chez Sony" title="Un caméscope à objectif interchangeable chez Sony" xmlUrl="http://feedproxy.google.com/~r/LeJournalDuGeek/~3/1dROlHUKjIw/"/>
+				<outline type="rss" text="Le “bug” de Twitter expliqué" title="Le “bug” de Twitter expliqué" xmlUrl="http://feedproxy.google.com/~r/LeJournalDuGeek/~3/6eO8Tla7TYs/"/>
+				<outline type="rss" text="Une clé USB Lady Gaga" title="Une clé USB Lady Gaga" xmlUrl="http://feedproxy.google.com/~r/LeJournalDuGeek/~3/9jc1lYs5pso/"/>
+				<outline type="rss" text="Ceci est une souris" title="Ceci est une souris" xmlUrl="http://feedproxy.google.com/~r/LeJournalDuGeek/~3/UH0LgNRUeVM/"/>
+				<outline type="rss" text="Encore du SSD chez RunCore" title="Encore du SSD chez RunCore" xmlUrl="http://feedproxy.google.com/~r/LeJournalDuGeek/~3/I2FqyF7tO7k/"/>
+				<outline type="rss" text="60 heures d’autonomie pour le YP-RB de Samsung" title="60 heures d’autonomie pour le YP-RB de Samsung" xmlUrl="http://feedproxy.google.com/~r/LeJournalDuGeek/~3/6w2QUm66OXg/"/>
+				<outline type="rss" text="Nexus One chez SFR : finalement, le 18 mai ?" title="Nexus One chez SFR : finalement, le 18 mai ?" xmlUrl="http://feedproxy.google.com/~r/LeJournalDuGeek/~3/TBYnLb3-SKM/"/>
+				<outline type="rss" text="L’Aigo 7007 sera basé sous Android" title="L’Aigo 7007 sera basé sous Android" xmlUrl="http://feedproxy.google.com/~r/LeJournalDuGeek/~3/kmdAx_QJieY/"/>
+				<outline type="rss" text="Une réplique plus vraie que nature du phaser rifle" title="Une réplique plus vraie que nature du phaser rifle" xmlUrl="http://feedproxy.google.com/~r/LeJournalDuGeek/~3/X_M_PKgPNzE/"/>
+				<outline type="rss" text="Le Samsung Galaxy A se déballe en vidéo" title="Le Samsung Galaxy A se déballe en vidéo" xmlUrl="http://feedproxy.google.com/~r/LeJournalDuGeek/~3/5A-TiyqFC00/"/>
+				<outline type="rss" text="Une caméra pour “aller sur le terrain”" title="Une caméra pour “aller sur le terrain”" xmlUrl="http://feedproxy.google.com/~r/LeJournalDuGeek/~3/3pJlRbP3uEE/"/>
+				<outline type="rss" text="Sony annonce les Alpha NEX-5 et NEX-3" title="Sony annonce les Alpha NEX-5 et NEX-3" xmlUrl="http://feedproxy.google.com/~r/LeJournalDuGeek/~3/XQAfk9IWPvg/"/>
+				<outline type="rss" text="Twitter à la sauce Star Wars" title="Twitter à la sauce Star Wars" xmlUrl="http://feedproxy.google.com/~r/LeJournalDuGeek/~3/sBlVyeAlZLY/"/>
+				<outline type="rss" text="Canon Ixus 300HS" title="Canon Ixus 300HS" xmlUrl="http://feedproxy.google.com/~r/LeJournalDuGeek/~3/RgGM0xnoBm4/"/>
+				<outline type="rss" text="Faire de l’énergie avec les amortisseurs" title="Faire de l’énergie avec les amortisseurs" xmlUrl="http://feedproxy.google.com/~r/LeJournalDuGeek/~3/vnidQrMEYIQ/"/>
+				<outline type="rss" text="Mikoshi en plein Akihabara" title="Mikoshi en plein Akihabara" xmlUrl="http://feedproxy.google.com/~r/LeJournalDuGeek/~3/MFxDM6ndh28/"/>
+				<outline type="rss" text="Saturn et Carrefour vous offrent votre TV !" title="Saturn et Carrefour vous offrent votre TV !" xmlUrl="http://feedproxy.google.com/~r/LeJournalDuGeek/~3/Gdcp2PQksCE/"/>
+				<outline type="rss" text="Nouveau MID chez Aigo : le E500" title="Nouveau MID chez Aigo : le E500" xmlUrl="http://feedproxy.google.com/~r/LeJournalDuGeek/~3/1QNFBbfr2qI/"/>
+				<outline type="rss" text="Et Google Chrome devient tactile…" title="Et Google Chrome devient tactile…" xmlUrl="http://feedproxy.google.com/~r/LeJournalDuGeek/~3/9DdViMw4pFw/"/>
+				<outline type="rss" text="Android devant l’iPhone !" title="Android devant l’iPhone !" xmlUrl="http://feedproxy.google.com/~r/LeJournalDuGeek/~3/70f7vOvXsLc/"/>
+				<outline type="rss" text="Une nouvelle technologie anti-piratage chez NEC" title="Une nouvelle technologie anti-piratage chez NEC" xmlUrl="http://feedproxy.google.com/~r/LeJournalDuGeek/~3/n5QaA229-e8/"/>
+				<outline type="rss" text="Le HTC HD2 va ravir les fans de la PS One" title="Le HTC HD2 va ravir les fans de la PS One" xmlUrl="http://feedproxy.google.com/~r/LeJournalDuGeek/~3/7XphEvdRbcw/"/>
+				<outline type="rss" text="Des lunettes 3D fashion chez Look3D" title="Des lunettes 3D fashion chez Look3D" xmlUrl="http://feedproxy.google.com/~r/LeJournalDuGeek/~3/90IYwDpkdps/"/>
+				<outline type="rss" text="Quand Yoda s’invite dans le ciel" title="Quand Yoda s’invite dans le ciel" xmlUrl="http://feedproxy.google.com/~r/LeJournalDuGeek/~3/vCc92UCAnzE/"/>
+				<outline type="rss" text="L’impression depuis l’iPad ? “Ça arrive”" title="L’impression depuis l’iPad ? “Ça arrive”" xmlUrl="http://feedproxy.google.com/~r/LeJournalDuGeek/~3/-uSI_HbKYpc/"/>
+				<outline type="rss" text="Maemo sur l’Archos 5 !" title="Maemo sur l’Archos 5 !" xmlUrl="http://feedproxy.google.com/~r/LeJournalDuGeek/~3/_iiLbLHUSps/"/>
+				<outline type="rss" text="Un autre clone de l’iPad sous Android" title="Un autre clone de l’iPad sous Android" xmlUrl="http://feedproxy.google.com/~r/LeJournalDuGeek/~3/8sCjnpD-FM0/"/>
+				<outline type="rss" text="Une guitare faite avec des terminaux mobiles !" title="Une guitare faite avec des terminaux mobiles !" xmlUrl="http://feedproxy.google.com/~r/LeJournalDuGeek/~3/IJy0pE6BeWA/"/>
+				<outline type="rss" text="Le Zotac MAG HD-ID11 disponible" title="Le Zotac MAG HD-ID11 disponible" xmlUrl="http://feedproxy.google.com/~r/LeJournalDuGeek/~3/_oBUok9NrOo/"/>
+				<outline type="rss" text="Le Top-braille : une invention utile !" title="Le Top-braille : une invention utile !" xmlUrl="http://feedproxy.google.com/~r/LeJournalDuGeek/~3/C66585em2xg/"/>
+			</outline>
+			<outline text="PCWorld.fr">
+				<outline type="rss" text="OCZ s'allie avec LSI, lance des SSD avec interface FC/SAS" title="OCZ s'allie avec LSI, lance des SSD avec interface FC/SAS" xmlUrl="http://feedproxy.google.com/~r/pcworld-fr/tout/~3/K7izXU3g2c0/"/>
+				<outline type="rss" text="Nouveaux pilotes pour les GTX 470 et GTX 480 chez NVIDIA" title="Nouveaux pilotes pour les GTX 470 et GTX 480 chez NVIDIA" xmlUrl="http://feedproxy.google.com/~r/pcworld-fr/tout/~3/7tbi-cabbNE/"/>
+				<outline type="rss" text="Club3D dévoile ses GeForce GTX 400" title="Club3D dévoile ses GeForce GTX 400" xmlUrl="http://feedproxy.google.com/~r/pcworld-fr/tout/~3/c7l_Ohd26nE/"/>
+				<outline type="rss" text="Sapphire lance une nouvelle carte mère AMD 890GX" title="Sapphire lance une nouvelle carte mère AMD 890GX" xmlUrl="http://feedproxy.google.com/~r/pcworld-fr/tout/~3/2vf7aRkOSOU/"/>
+				<outline type="rss" text="La finale française du GOOC c'est ce samedi à Paris" title="La finale française du GOOC c'est ce samedi à Paris" xmlUrl="http://feedproxy.google.com/~r/pcworld-fr/tout/~3/fDJ_jIavm0U/"/>
+				<outline type="rss" text="Qui sont les plus gros pirates du monde ?" title="Qui sont les plus gros pirates du monde ?" xmlUrl="http://feedproxy.google.com/~r/pcworld-fr/tout/~3/7m9Nbt0lhWU/"/>
+				<outline type="rss" text="Une carte mère AMD à 49 euros chez MSI" title="Une carte mère AMD à 49 euros chez MSI" xmlUrl="http://feedproxy.google.com/~r/pcworld-fr/tout/~3/_fgtUPyiBms/"/>
+				<outline type="rss" text="Crucial retire le firmware buggé de son C300" title="Crucial retire le firmware buggé de son C300" xmlUrl="http://feedproxy.google.com/~r/pcworld-fr/tout/~3/ABoCjGie9mA/"/>
+				<outline type="rss" text="MX Technology lance sa mémoire vive ArmorX" title="MX Technology lance sa mémoire vive ArmorX" xmlUrl="http://feedproxy.google.com/~r/pcworld-fr/tout/~3/Dp7H73quM-8/"/>
+				<outline type="rss" text="OCZ prépare les Agility 2 E, avec plus de capacité" title="OCZ prépare les Agility 2 E, avec plus de capacité" xmlUrl="http://feedproxy.google.com/~r/pcworld-fr/tout/~3/2gqerxpqsho/"/>
+				<outline type="rss" text="Qui sont les plus grands ennemis de la vie privée ? Albanel, Hadopi, Facebook ?" title="Qui sont les plus grands ennemis de la vie privée ? Albanel, Hadopi, Facebook ?" xmlUrl="http://feedproxy.google.com/~r/pcworld-fr/tout/~3/DtSC_OIQjB4/"/>
+				<outline type="rss" text="25 millions de puces USB 3.0 vendues" title="25 millions de puces USB 3.0 vendues" xmlUrl="http://feedproxy.google.com/~r/pcworld-fr/tout/~3/4erOukYQtQM/"/>
+				<outline type="rss" text="Archos 7 : la tablette domestique à 149€. Une sérieuse concurrente à l'iPad ?" title="Archos 7 : la tablette domestique à 149€. Une sérieuse concurrente à l'iPad ?" xmlUrl="http://feedproxy.google.com/~r/pcworld-fr/tout/~3/vKUa28oaxX0/"/>
+				<outline type="rss" text="Windows XP privé d'Internet Explorer 9 : Microsoft se justifie sans convaincre" title="Windows XP privé d'Internet Explorer 9 : Microsoft se justifie sans convaincre" xmlUrl="http://feedproxy.google.com/~r/pcworld-fr/tout/~3/3n8LqDahEdI/"/>
+				<outline type="rss" text="La Zbox de Zotac débarque au Japon" title="La Zbox de Zotac débarque au Japon" xmlUrl="http://feedproxy.google.com/~r/pcworld-fr/tout/~3/oorhVhDbbBc/"/>
+				<outline type="rss" text="Pub : Microsoft dépense deux fois plus qu'Apple" title="Pub : Microsoft dépense deux fois plus qu'Apple" xmlUrl="http://feedproxy.google.com/~r/pcworld-fr/tout/~3/bXxogZR_Iis/"/>
+				<outline type="rss" text="Vers la démocratisation du Blu-ray ?" title="Vers la démocratisation du Blu-ray ?" xmlUrl="http://feedproxy.google.com/~r/pcworld-fr/tout/~3/7YkfYkE0_ck/"/>
+				<outline type="rss" text="L'ASUS Crosshair IV Extreme en détail" title="L'ASUS Crosshair IV Extreme en détail" xmlUrl="http://feedproxy.google.com/~r/pcworld-fr/tout/~3/MWunJ1TkmaI/"/>
+				<outline type="rss" text="Creative ZiiSound D5 Bluetooth : le kit 2.1 sans fil pour iPod ou pour PC" title="Creative ZiiSound D5 Bluetooth : le kit 2.1 sans fil pour iPod ou pour PC" xmlUrl="http://feedproxy.google.com/~r/pcworld-fr/tout/~3/geINzj5-T2c/"/>
+				<outline type="rss" text="Débat du week-end : Windows 7 64-bit, vraiment une bonne idée ?" title="Débat du week-end : Windows 7 64-bit, vraiment une bonne idée ?" xmlUrl="http://feedproxy.google.com/~r/pcworld-fr/tout/~3/MPeaAUlUcBQ/"/>
+			</outline>
+			<outline text="Developpez.com">
+				<outline type="rss" text="GNU Emacs 23.2 disponible en version stable : l'éditeur de texte ultime pour les développeurs ?" title="GNU Emacs 23.2 disponible en version stable : l'éditeur de texte ultime pour les développeurs ?" xmlUrl="http://www.developpez.net/forums/d921769/club-professionnels-informatique/actualites/gnu-emacs-23-2-disponible-version-stable/"/>
+				<outline type="rss" text="Les pré-commandes de l'iPad ouvertes en France, pour Apple 1 Euro = 1 $" title="Les pré-commandes de l'iPad ouvertes en France, pour Apple 1 Euro = 1 $" xmlUrl="http://www.developpez.net/forums/d920182/club-professionnels-informatique/actualites/pre-commandes-lipad-ouvertes-france-apple-1-1-a/"/>
+				<outline type="rss" text="Les pirates exploitent le succès de Windows 7 : après les fausses alertes de sécurité, Microsoft est à nouveau victime de contrefaçon" title="Les pirates exploitent le succès de Windows 7 : après les fausses alertes de sécurité, Microsoft est à nouveau victime de contrefaçon" xmlUrl="http://www.developpez.net/forums/d921643/club-professionnels-informatique/actualites/pirates-exploitent-succes-commercial-windows-7-a/"/>
+				<outline type="rss" text="Créez un formulaire de planning à base d'images dans Microsoft Access" title="Créez un formulaire de planning à base d'images dans Microsoft Access" xmlUrl="http://jeannot45.developpez.com/articles/access/prepaplanning/"/>
+				<outline type="rss" text="Les ventes de smartphones sous Android dépassent celles de l'iPhone pour la première fois aux États-Unis, selon une étude de NPD" title="Les ventes de smartphones sous Android dépassent celles de l'iPhone pour la première fois aux États-Unis, selon une étude de NPD" xmlUrl="http://www.developpez.net/forums/d841398/club-professionnels-informatique/actualites/trafic-internet-dandroid-depasse-celui-liphone-aux-usa-ventes/"/>
+				<outline type="rss" text="E-marketing international : guide pour les PME, par Adina Barvinschi" title="E-marketing international : guide pour les PME, par Adina Barvinschi" xmlUrl="http://webmarketing.developpez.com/tutoriels/webmarketing/e-marketing-international-guide-pour-pme/"/>
+				<outline type="rss" text="Tutoriel Java : Simulacres de tests avec EasyMock et JUnit 4, par Baptiste Wicht" title="Tutoriel Java : Simulacres de tests avec EasyMock et JUnit 4, par Baptiste Wicht" xmlUrl="http://baptiste-wicht.developpez.com/tutoriels/java/tests/mocks/easymock/"/>
+				<outline type="rss" text="Lancement du forum d'entraide dédié à Play!, le framework Open Source Java pour le développement d'applications Web RESTful" title="Lancement du forum d'entraide dédié à Play!, le framework Open Source Java pour le développement d'applications Web RESTful" xmlUrl="http://www.developpez.net/forums/f1462/java/developpement-web-java/frameworks/autres/play/"/>
+				<outline type="rss" text="Fedora 13 étend la virtualisation Linux, la distribution s'appuie sur de nouvelles fonctionnalités KVM" title="Fedora 13 étend la virtualisation Linux, la distribution s'appuie sur de nouvelles fonctionnalités KVM" xmlUrl="http://www.developpez.net/forums/d907851/systemes/linux/distributions/fedora-red-hat/actualite-fedora-13-etend-virtualisation-linux-distribution-sappuie-kvm/"/>
+				<outline type="rss" text="Vers des serveurs embarquant des puces ARM basse consommation ? Crédible, souhaitable ou simplement irréaliste ?" title="Vers des serveurs embarquant des puces ARM basse consommation ? Crédible, souhaitable ou simplement irréaliste ?" xmlUrl="http://www.developpez.net/forums/d921397/club-professionnels-informatique/actualites/vers-serveurs-embarquant-puces-arm-basses-consommations/"/>
+				<outline type="rss" text="Obama se désole de la &quot;génération iPad&quot; et qualifie l'appareil de &quot;jouet&quot; servant à divertir plutôt qu'à éduquer" title="Obama se désole de la &quot;génération iPad&quot; et qualifie l'appareil de &quot;jouet&quot; servant à divertir plutôt qu'à éduquer" xmlUrl="http://www.developpez.net/forums/d921373/club-professionnels-informatique/actualites/obama-se-desole-generation-ipad-qualifie-lappareil-jouet-servant-divertir-plutot-qua-eduqu/"/>
+				<outline type="rss" text="Que nous réserve la R&amp;D de Microsoft ? Plus de confidentialité dans les usages IT, et un peu de sciences-fiction" title="Que nous réserve la R&amp;D de Microsoft ? Plus de confidentialité dans les usages IT, et un peu de sciences-fiction" xmlUrl="http://www.developpez.net/forums/d921331/club-professionnels-informatique/actualites/reservent-labos-rd-microsoft-confidentialite-sciences-fiction/"/>
+				<outline type="rss" text="Premier SDK pour Bada, le nouvel OS de Samsung fondé sur Linux qui équipera un tiers des smartphones de la marque" title="Premier SDK pour Bada, le nouvel OS de Samsung fondé sur Linux qui équipera un tiers des smartphones de la marque" xmlUrl="http://www.developpez.net/forums/d919216/club-professionnels-informatique/actualites/premier-sdk-bada-nouvel-os-samsung-fodee-linux-equipera-tiers-smartphones/"/>
+				<outline type="rss" text="Débat Scrum : Que pensez-vous des certifications et processus de certifications définis par la Scrum Alliance ?" title="Débat Scrum : Que pensez-vous des certifications et processus de certifications définis par la Scrum Alliance ?" xmlUrl="http://www.developpez.net/forums/d920915/general-developpement/conception/methodes/methodes-agiles/pensez-certifications-processus-certifications-definis-scrum-alliance/"/>
+				<outline type="rss" text="L'alternative d'Apple au Flash s'appelle Gianduia, écrite en JavaScript elle s'appuierait sur Cocoa" title="L'alternative d'Apple au Flash s'appelle Gianduia, écrite en JavaScript elle s'appuierait sur Cocoa" xmlUrl="http://www.developpez.net/forums/d905961/club-professionnels-informatique/actualites/apple-aurait-alternative-flash-cartons-tour-dopera-sen-prendre-adobe/"/>
+				<outline type="rss" text="Interfaces graphiques SWT : Raccourcis clavier et menus contextuels dans le composant StyledText, par David Chautard" title="Interfaces graphiques SWT : Raccourcis clavier et menus contextuels dans le composant StyledText, par David Chautard" xmlUrl="http://david-chautard.developpez.com/tutoriels/java/raccourcis-clavier-styledtext/"/>
+				<outline type="rss" text="Les résultats du premier défi Qt sont arrivés, qui a gagné le Buddhabrot ?" title="Les résultats du premier défi Qt sont arrivés, qui a gagné le Buddhabrot ?" xmlUrl="http://qt.developpez.com/defis/01-buddhabrot/resultats/"/>
+				<outline type="rss" text="Nokia dépose une nouvelle plainte contre Apple, l'iPhone et l'iPad auraient violé ses brevets" title="Nokia dépose une nouvelle plainte contre Apple, l'iPhone et l'iPad auraient violé ses brevets" xmlUrl="http://www.developpez.net/forums/d826266/club-professionnels-informatique/actualites/nokia-depose-nouvelle-plainte-contre-apple-liphone-lipad-auraient-viole-brevets/"/>
+				<outline type="rss" text="Comment nommer la plus grande unité de mesure mathématique, après le yotta ? &quot;Hella&quot;, propose un étudiant américain" title="Comment nommer la plus grande unité de mesure mathématique, après le yotta ? &quot;Hella&quot;, propose un étudiant américain" xmlUrl="http://www.developpez.net/forums/d920424/club-professionnels-informatique/actualites/nommer-plus-grande-unite-mesure-mathematique-apres-yotta-hella-propose-etudiant/"/>
+			</outline>
+			<outline text="CNET News.com">
+				<outline type="rss" text="Firefox 4 release plan: the need for speed" title="Firefox 4 release plan: the need for speed" xmlUrl="http://news.cnet.com/8301-30685_3-20004620-264.html?part=rss&amp;amp;subj=news&amp;amp;tag=2547-1_3-0-20"/>
+				<outline type="rss" text="More people think about deleting Facebook accounts?" title="More people think about deleting Facebook accounts?" xmlUrl="http://news.cnet.com/8301-17852_3-20004642-71.html?part=rss&amp;amp;subj=news&amp;amp;tag=2547-1_3-0-20"/>
+				<outline type="rss" text="Secondary use for Nexus One's car dock: A tripod" title="Secondary use for Nexus One's car dock: A tripod" xmlUrl="http://news.cnet.com/8301-27076_3-20004628-248.html?part=rss&amp;amp;subj=news&amp;amp;tag=2547-1_3-0-20"/>
+				<outline type="rss" text="Report: Google looking for social-media leader" title="Report: Google looking for social-media leader" xmlUrl="http://news.cnet.com/8301-30684_3-20004630-265.html?part=rss&amp;amp;subj=news&amp;amp;tag=2547-1_3-0-20"/>
+				<outline type="rss" text="iPad is hot on eBay, but for how long?" title="iPad is hot on eBay, but for how long?" xmlUrl="http://news.cnet.com/8301-27076_3-20004562-248.html?part=rss&amp;amp;subj=news&amp;amp;tag=2547-1_3-0-20"/>
+				<outline type="rss" text="Sprint hangs up on Google's Nexus One" title="Sprint hangs up on Google's Nexus One" xmlUrl="http://news.cnet.com/8301-30684_3-20004614-265.html?part=rss&amp;amp;subj=news&amp;amp;tag=2547-1_3-0-20"/>
+				<outline type="rss" text="AOL hires Microsoft's Alex Gounares as new CTO" title="AOL hires Microsoft's Alex Gounares as new CTO" xmlUrl="http://news.cnet.com/8301-1001_3-20004592-92.html?part=rss&amp;amp;subj=news&amp;amp;tag=2547-1_3-0-20"/>
+				<outline type="rss" text="Fragmenting Linux is not the way to beat Apple" title="Fragmenting Linux is not the way to beat Apple" xmlUrl="http://news.cnet.com/8301-13505_3-20004567-16.html?part=rss&amp;amp;subj=news&amp;amp;tag=2547-1_3-0-20"/>
+				<outline type="rss" text="Report: Google Android surpasses iPhone in U.S." title="Report: Google Android surpasses iPhone in U.S." xmlUrl="http://news.cnet.com/8301-30686_3-20004585-266.html?part=rss&amp;amp;subj=news&amp;amp;tag=2547-1_3-0-20"/>
+				<outline type="rss" text="Twitter bomb joker found guilty" title="Twitter bomb joker found guilty" xmlUrl="http://news.cnet.com/8301-17852_3-20004556-71.html?part=rss&amp;amp;subj=news&amp;amp;tag=2547-1_3-0-20"/>
+				<outline type="rss" text="Create your own games in LittleBigPlanet 2" title="Create your own games in LittleBigPlanet 2" xmlUrl="http://news.cnet.com/8301-17938_105-20004577-1.html?part=rss&amp;amp;subj=news&amp;amp;tag=2547-1_3-0-20"/>
+				<outline type="rss" text="Boeing's Phantom Ray to fly in December" title="Boeing's Phantom Ray to fly in December" xmlUrl="http://news.cnet.com/8301-13639_3-20004554-42.html?part=rss&amp;amp;subj=news&amp;amp;tag=2547-1_3-0-20"/>
+				<outline type="rss" text="Report: Facebook to let users share their locations" title="Report: Facebook to let users share their locations" xmlUrl="http://news.cnet.com/8301-1023_3-20004566-93.html?part=rss&amp;amp;subj=news&amp;amp;tag=2547-1_3-0-20"/>
+				<outline type="rss" text="Twitter confirms awkward 'auto-follow' bug" title="Twitter confirms awkward 'auto-follow' bug" xmlUrl="http://news.cnet.com/8301-13577_3-20004563-36.html?part=rss&amp;amp;subj=news&amp;amp;tag=2547-1_3-0-20"/>
+				<outline type="rss" text="Verizon leads carriers in customer satisfaction" title="Verizon leads carriers in customer satisfaction" xmlUrl="http://news.cnet.com/8301-1035_3-20004547-94.html?part=rss&amp;amp;subj=news&amp;amp;tag=2547-1_3-0-20"/>
+				<outline type="rss" text="IBM liquid-cooled supercomputer heats building" title="IBM liquid-cooled supercomputer heats building" xmlUrl="http://news.cnet.com/8301-11128_3-20004543-54.html?part=rss&amp;amp;subj=news&amp;amp;tag=2547-1_3-0-20"/>
+				<outline type="rss" text="Facebook phishing scam snares company board member" title="Facebook phishing scam snares company board member" xmlUrl="http://news.cnet.com/8301-13577_3-20004549-36.html?part=rss&amp;amp;subj=news&amp;amp;tag=2547-1_3-0-20"/>
+				<outline type="rss" text="Loaded: Knife-wielding robots" title="Loaded: Knife-wielding robots" xmlUrl="http://news.cnet.com/1606-2_3-50087406.html?part=rss&amp;amp;subj=news&amp;amp;tag=2547-1_3-0-20"/>
+				<outline type="rss" text="WiGig group opens way to gigabit wireless devices" title="WiGig group opens way to gigabit wireless devices" xmlUrl="http://news.cnet.com/8301-1035_3-20004535-94.html?part=rss&amp;amp;subj=news&amp;amp;tag=2547-1_3-0-20"/>
+				<outline type="rss" text="DOE funds to stretch solar power via salt storage" title="DOE funds to stretch solar power via salt storage" xmlUrl="http://news.cnet.com/8301-11128_3-20004534-54.html?part=rss&amp;amp;subj=news&amp;amp;tag=2547-1_3-0-20"/>
+			</outline>
+			<outline text="LEXPRESS.fr - A la Une">
+				<outline type="rss" text="Les questions en suspens dans l'affaire Musulin" title="Les questions en suspens dans l'affaire Musulin" xmlUrl="http://redirect.feediz.com/item-185010-1937395980.html"/>
+				<outline type="rss" text="Qui guetter à Cannes?" title="Qui guetter à Cannes?" xmlUrl="http://redirect.feediz.com/item-155060-1237895981.html"/>
+				<outline type="rss" text="Donnez vos cheveux pour lutter contre la marée noire" title="Donnez vos cheveux pour lutter contre la marée noire" xmlUrl="http://redirect.feediz.com/item-125080-1837795982.html"/>
+				<outline type="rss" text="Ce qui attend le prochain Premier ministre britannique" title="Ce qui attend le prochain Premier ministre britannique" xmlUrl="http://redirect.feediz.com/item-165090-1437195670.html"/>
+				<outline type="rss" text="La ruée des diplômés vers Shanghai" title="La ruée des diplômés vers Shanghai" xmlUrl="http://redirect.feediz.com/item-135050-1637694893.html"/>
+				<outline type="rss" text="L'Assemblée nationale vote le Grenelle 2" title="L'Assemblée nationale vote le Grenelle 2" xmlUrl="http://redirect.feediz.com/item-105070-1437394622.html"/>
+				<outline type="rss" text="Bayrou réaffirme son &quot;indépendance&quot;" title="Bayrou réaffirme son &quot;indépendance&quot;" xmlUrl="http://redirect.feediz.com/item-165090-1937994378.html"/>
+				<outline type="rss" text="Qui a dit du bouclier fiscal: &quot;Il faut peut-être arrêter cette expérience&quot;?" title="Qui a dit du bouclier fiscal: &quot;Il faut peut-être arrêter cette expérience&quot;?" xmlUrl="http://redirect.feediz.com/item-145040-1937894161.html"/>
+				<outline type="rss" text="La sortie de Gordon Brown complique la donne" title="La sortie de Gordon Brown complique la donne" xmlUrl="http://redirect.feediz.com/item-115070-1637194162.html"/>
+				<outline type="rss" text="La démission annoncée de Gordon Brown complique la donne" title="La démission annoncée de Gordon Brown complique la donne" xmlUrl="http://redirect.feediz.com/item-195020-1437895362.html"/>
+				<outline type="rss" text="Voile - AG2R: de la maîtrise avant toute chose" title="Voile - AG2R: de la maîtrise avant toute chose" xmlUrl="http://redirect.feediz.com/item-145000-1637595363.html"/>
+				<outline type="rss" text="Toni Musulin est bien jugé ce mardi" title="Toni Musulin est bien jugé ce mardi" xmlUrl="http://redirect.feediz.com/item-115020-1837793872.html"/>
+				<outline type="rss" text="Les batailles des avocats de Toni Musulin" title="Les batailles des avocats de Toni Musulin" xmlUrl="http://redirect.feediz.com/item-175040-1137895671.html"/>
+				<outline type="rss" text="Toni Musulin est jugé ce mardi" title="Toni Musulin est jugé ce mardi" xmlUrl="http://redirect.feediz.com/item-125040-1537294379.html"/>
+				<outline type="rss" text="Le centre Pompidou-Metz ouvre ses portes" title="Le centre Pompidou-Metz ouvre ses portes" xmlUrl="http://redirect.feediz.com/item-165050-1037293873.html"/>
+				<outline type="rss" text="Voile intégral: la résolution avant le projet de loi" title="Voile intégral: la résolution avant le projet de loi" xmlUrl="http://redirect.feediz.com/item-165010-1137493874.html"/>
+				<outline type="rss" text="Les Gérard 2010 sont..." title="Les Gérard 2010 sont..." xmlUrl="http://redirect.feediz.com/item-145050-1737095983.html"/>
+				<outline type="rss" text="&quot;Il faut dénoncer les pédophiles sur Internet&quot;" title="&quot;Il faut dénoncer les pédophiles sur Internet&quot;" xmlUrl="http://redirect.feediz.com/item-125020-1037282817.html"/>
+				<outline type="rss" text="Pour 2012, les Français veulent voir DSK candidat pour le PS" title="Pour 2012, les Français veulent voir DSK candidat pour le PS" xmlUrl="http://redirect.feediz.com/item-155080-1737882818.html"/>
+				<outline type="rss" text="&quot;Nicolas Hulot ne s'engagera jamais en politique&quot;" title="&quot;Nicolas Hulot ne s'engagera jamais en politique&quot;" xmlUrl="http://redirect.feediz.com/item-115030-1337282819.html"/>
+				<outline type="rss" text="Le Nouveau centre comprend mal que l'UMP courtise Bayrou" title="Le Nouveau centre comprend mal que l'UMP courtise Bayrou" xmlUrl="http://redirect.feediz.com/item-135090-1837982820.html"/>
+				<outline type="rss" text="&quot;La pénibilité du travail n'a pas disparu avec la modernisation&quot;" title="&quot;La pénibilité du travail n'a pas disparu avec la modernisation&quot;" xmlUrl="http://redirect.feediz.com/item-175070-1237593875.html"/>
+				<outline type="rss" text="Sarkozy siffle la fin du soutien au pouvoir d'achat" title="Sarkozy siffle la fin du soutien au pouvoir d'achat" xmlUrl="http://redirect.feediz.com/item-175070-1037082824.html"/>
+				<outline type="rss" text="Gordon Brown quittera la tête du Labour d'ici l'automne" title="Gordon Brown quittera la tête du Labour d'ici l'automne" xmlUrl="http://redirect.feediz.com/item-165020-1237982821.html"/>
+				<outline type="rss" text="Gordon Brown quittera la tête du Labour" title="Gordon Brown quittera la tête du Labour" xmlUrl="http://redirect.feediz.com/item-135040-1337082822.html"/>
+			</outline>
+			<outline text="Clubic.com - Articles / Tests / Dossiers">
+				<outline type="rss" text="Guide d'achat ordinateurs portables avril 2010" title="Guide d'achat ordinateurs portables avril 2010" xmlUrl="http://redirect.feediz.com/item-195349-130786982.html"/>
+				<outline type="rss" text="Test du HTC Legend : le digne successeur du Hero ?" title="Test du HTC Legend : le digne successeur du Hero ?" xmlUrl="http://redirect.feediz.com/item-105399-1135779050.html"/>
+				<outline type="rss" text="Apple iPad : le test" title="Apple iPad : le test" xmlUrl="http://redirect.feediz.com/item-145389-1635378985.html"/>
+				<outline type="rss" text="Test de la Slingbox Pro : la TV vous suit partout!" title="Test de la Slingbox Pro : la TV vous suit partout!" xmlUrl="http://redirect.feediz.com/item-175339-1431703074.html"/>
+				<outline type="rss" text="Pine Trail, la nouvelle plate-forme Intel pour netbook" title="Pine Trail, la nouvelle plate-forme Intel pour netbook" xmlUrl="http://redirect.feediz.com/item-145339-1029898833.html"/>
+				<outline type="rss" text="Baladeurs MP3 : 4 modèles tactiles en test" title="Baladeurs MP3 : 4 modèles tactiles en test" xmlUrl="http://redirect.feediz.com/item-155369-1929383582.html"/>
+				<outline type="rss" text="Test du chargeur sans fil PowerMat pour iPhone" title="Test du chargeur sans fil PowerMat pour iPhone" xmlUrl="http://redirect.feediz.com/item-155329-1629268620.html"/>
+				<outline type="rss" text="Test du Nexus One : le plus puissant des Android ?" title="Test du Nexus One : le plus puissant des Android ?" xmlUrl="http://redirect.feediz.com/item-185389-1529104668.html"/>
+				<outline type="rss" text="Les offres d'accès à Internet par clé 3G au banc d'essai" title="Les offres d'accès à Internet par clé 3G au banc d'essai" xmlUrl="http://redirect.feediz.com/item-195329-1127031079.html"/>
+				<outline type="rss" text="Intel Core i3/i5 mobiles et AMD Radeon HD 5000" title="Intel Core i3/i5 mobiles et AMD Radeon HD 5000" xmlUrl="http://redirect.feediz.com/item-125319-1725046167.html"/>
+				<outline type="rss" text="Sony Vaio X : test d'un portable poids-plume" title="Sony Vaio X : test d'un portable poids-plume" xmlUrl="http://redirect.feediz.com/item-155399-1622573383.html"/>
+				<outline type="rss" text="Baladeurs MP3 : comparatif de 5 lecteurs flash" title="Baladeurs MP3 : comparatif de 5 lecteurs flash" xmlUrl="http://redirect.feediz.com/item-185379-1422728474.html"/>
+				<outline type="rss" text="Quatre livres électroniques en test" title="Quatre livres électroniques en test" xmlUrl="http://redirect.feediz.com/item-195329-1222808745.html"/>
+				<outline type="rss" text="WiMo : faites du « push mail » avec un compte Gmail !" title="WiMo : faites du « push mail » avec un compte Gmail !" xmlUrl="http://redirect.feediz.com/item-165399-1021481470.html"/>
+				<outline type="rss" text="Test du CPL HD de Belkin : le premier kit CPL Gigabit" title="Test du CPL HD de Belkin : le premier kit CPL Gigabit" xmlUrl="http://redirect.feediz.com/item-135339-1320802595.html"/>
+				<outline type="rss" text="Rétrospective 2000-2010 : 10 ans de high tech" title="Rétrospective 2000-2010 : 10 ans de high tech" xmlUrl="http://redirect.feediz.com/item-145369-1919790631.html"/>
+				<outline type="rss" text="Comment choisir un baladeur MP3 ?" title="Comment choisir un baladeur MP3 ?" xmlUrl="http://redirect.feediz.com/item-125339-1135178989.html"/>
+				<outline type="rss" text="Comment choisir un dock iPod ?" title="Comment choisir un dock iPod ?" xmlUrl="http://redirect.feediz.com/item-135329-1835678990.html"/>
+				<outline type="rss" text="Comment choisir un ordinateur portable ?" title="Comment choisir un ordinateur portable ?" xmlUrl="http://redirect.feediz.com/item-195389-1835278992.html"/>
+				<outline type="rss" text="Comment choisir un netbook ?" title="Comment choisir un netbook ?" xmlUrl="http://redirect.feediz.com/item-165339-1635978993.html"/>
+				<outline type="rss" text="Comment choisir un téléphone portable ?" title="Comment choisir un téléphone portable ?" xmlUrl="http://redirect.feediz.com/item-105349-1735879051.html"/>
+				<outline type="rss" text="Comment choisir un GPS ?" title="Comment choisir un GPS ?" xmlUrl="http://redirect.feediz.com/item-115319-1935878997.html"/>
+				<outline type="rss" text="DLNA, le réseau multimédia de la maison !" title="DLNA, le réseau multimédia de la maison !" xmlUrl="http://redirect.feediz.com/item-125379-1917651737.html"/>
+				<outline type="rss" text="Samsung N510 et HP Mini 311, duel de netbooks ION" title="Samsung N510 et HP Mini 311, duel de netbooks ION" xmlUrl="http://redirect.feediz.com/item-175329-1315152072.html"/>
+				<outline type="rss" text="Quel forfait 3G pour la fin d'année ?" title="Quel forfait 3G pour la fin d'année ?" xmlUrl="http://redirect.feediz.com/item-105359-1714996375.html"/>
+				<outline type="rss" text="Intel Clarksfield : le Core i7 se fait mobile" title="Intel Clarksfield : le Core i7 se fait mobile" xmlUrl="http://redirect.feediz.com/item-115319-1514859248.html"/>
+				<outline type="rss" text="Test du Touch HD 2 : Smartphone XXL en approche !" title="Test du Touch HD 2 : Smartphone XXL en approche !" xmlUrl="http://redirect.feediz.com/item-115339-1314917005.html"/>
+				<outline type="rss" text="Guide d'achat téléphones mobiles novembre 2009" title="Guide d'achat téléphones mobiles novembre 2009" xmlUrl="http://redirect.feediz.com/item-115359-1714004681.html"/>
+				<outline type="rss" text="Test du Touch 2 : que vaut le 1er Windows Phone d'HTC ?" title="Test du Touch 2 : que vaut le 1er Windows Phone d'HTC ?" xmlUrl="http://redirect.feediz.com/item-115379-1112644061.html"/>
+				<outline type="rss" text="Test de Windows Mobile 6.5 : l'heure du bilan" title="Test de Windows Mobile 6.5 : l'heure du bilan" xmlUrl="http://redirect.feediz.com/item-155399-1811056033.html"/>
+				<outline type="rss" text="iPod nano 5G et iTunes 9.0, le test en musique" title="iPod nano 5G et iTunes 9.0, le test en musique" xmlUrl="http://redirect.feediz.com/item-165319-1409451028.html"/>
+				<outline type="rss" text="Comparatif : 6 ordinateurs portables pour la rentrée" title="Comparatif : 6 ordinateurs portables pour la rentrée" xmlUrl="http://redirect.feediz.com/item-125379-1409451030.html"/>
+				<outline type="rss" text="Comparatif des programmes de navigation pour iPhone" title="Comparatif des programmes de navigation pour iPhone" xmlUrl="http://redirect.feediz.com/item-125379-1109051139.html"/>
+				<outline type="rss" text="Les téléphones tactiles phares de la rentrée" title="Les téléphones tactiles phares de la rentrée" xmlUrl="http://redirect.feediz.com/item-145389-1809851142.html"/>
+				<outline type="rss" text="WiFi gratuit, clé 3G : restez connectés en vacances" title="WiFi gratuit, clé 3G : restez connectés en vacances" xmlUrl="http://redirect.feediz.com/item-175389-1106851886.html"/>
+				<outline type="rss" text="Zoom sur les solutions multimédia pour la maison" title="Zoom sur les solutions multimédia pour la maison" xmlUrl="http://redirect.feediz.com/item-195359-1303218580.html"/>
+				<outline type="rss" text="Cinq photophones au banc d'essai" title="Cinq photophones au banc d'essai" xmlUrl="http://redirect.feediz.com/item-175389-1201905918.html"/>
+				<outline type="rss" text="Sony Vaio VGN-P11Z, netbook ou ultra-portable ?" title="Sony Vaio VGN-P11Z, netbook ou ultra-portable ?" xmlUrl="http://redirect.feediz.com/item-115359-1500267657.html"/>
+				<outline type="rss" text="Dix lecteurs MP3 à moins de 80 euros" title="Dix lecteurs MP3 à moins de 80 euros" xmlUrl="http://redirect.feediz.com/item-185329-969548905.html"/>
+				<outline type="rss" text="Jeux iPod Touch : un concurrent pour les consoles ?" title="Jeux iPod Touch : un concurrent pour les consoles ?" xmlUrl="http://redirect.feediz.com/item-135369-958339413.html"/>
+				<outline type="rss" text="HTC Magic et Dream : les Google Phones en test" title="HTC Magic et Dream : les Google Phones en test" xmlUrl="http://redirect.feediz.com/item-105389-928330629.html"/>
+				<outline type="rss" text="Creative ZEN X-Fi vs iPod Touch 2G 32 Go : le match" title="Creative ZEN X-Fi vs iPod Touch 2G 32 Go : le match" xmlUrl="http://redirect.feediz.com/item-145359-967150723.html"/>
+				<outline type="rss" text="Configurer sa Livebox Mini : Clubic vous guide" title="Configurer sa Livebox Mini : Clubic vous guide" xmlUrl="http://redirect.feediz.com/item-185399-878724178.html"/>
+				<outline type="rss" text="Test du Dell Mini 12 : netbook or not netbook ?" title="Test du Dell Mini 12 : netbook or not netbook ?" xmlUrl="http://redirect.feediz.com/item-165319-854928702.html"/>
+				<outline type="rss" text="Asus Eee PC S101, un netbook de luxe ?" title="Asus Eee PC S101, un netbook de luxe ?" xmlUrl="http://redirect.feediz.com/item-105379-884218112.html"/>
+				<outline type="rss" text="Comparatif netbook : 14 modèles au banc d'essai" title="Comparatif netbook : 14 modèles au banc d'essai" xmlUrl="http://redirect.feediz.com/item-145319-851992081.html"/>
+				<outline type="rss" text="Le cru fin 2008 de l'Apple MacBook" title="Le cru fin 2008 de l'Apple MacBook" xmlUrl="http://redirect.feediz.com/item-185309-802166219.html"/>
+				<outline type="rss" text="Que vaut le Puma d'AMD face à l'Intel Centrino 2 ?" title="Que vaut le Puma d'AMD face à l'Intel Centrino 2 ?" xmlUrl="http://redirect.feediz.com/item-185349-798422924.html"/>
+				<outline type="rss" text="Découvrez les fonctions avancées de la Freebox" title="Découvrez les fonctions avancées de la Freebox" xmlUrl="http://redirect.feediz.com/item-125359-777380715.html"/>
+				<outline type="rss" text="Les astuces pour profiter au mieux de votre Eee PC" title="Les astuces pour profiter au mieux de votre Eee PC" xmlUrl="http://redirect.feediz.com/item-145359-776436316.html"/>
+			</outline>
+			<outline text="ZDNet.fr News - Dernières publications">
+				<outline type="rss" text="Grande-Bretagne : Orange et T-Mobile UK deviennent 'Everything everywhere'" title="Grande-Bretagne : Orange et T-Mobile UK deviennent 'Everything everywhere'" xmlUrl="http://redirect.feediz.com/item-57012788-1737896059.html"/>
+				<outline type="rss" text="E-commerce : 25 millions de clients en France" title="E-commerce : 25 millions de clients en France" xmlUrl="http://redirect.feediz.com/item-57015788-1237295908.html"/>
+				<outline type="rss" text="Etats-Unis : Android aurait surpassé Apple au premier trimestre" title="Etats-Unis : Android aurait surpassé Apple au premier trimestre" xmlUrl="http://redirect.feediz.com/item-56016788-1937495821.html"/>
+				<outline type="rss" text="Smartphones : Microsoft livre sa vision du futur" title="Smartphones : Microsoft livre sa vision du futur" xmlUrl="http://redirect.feediz.com/item-57018788-1637795759.html"/>
+				<outline type="rss" text="Un cheval de Troie caché dans un faux outil de test de compatibilité pour Windows 7" title="Un cheval de Troie caché dans un faux outil de test de compatibilité pour Windows 7" xmlUrl="http://redirect.feediz.com/item-52013788-1937994555.html"/>
+				<outline type="rss" text="La version bêta de Firefox 4 disponible en juin" title="La version bêta de Firefox 4 disponible en juin" xmlUrl="http://redirect.feediz.com/item-57015788-1537894356.html"/>
+				<outline type="rss" text="Twitter victime d'un nouveau bug mondial" title="Twitter victime d'un nouveau bug mondial" xmlUrl="http://redirect.feediz.com/item-57016788-1837393919.html"/>
+				<outline type="rss" text="L'iPad cannibaliserait les ventes de netbooks, vraiment ?" title="L'iPad cannibaliserait les ventes de netbooks, vraiment ?" xmlUrl="http://redirect.feediz.com/item-56016788-1037982001.html"/>
+				<outline type="rss" text="Steve Jobs : si l'iPad est si cher en Europe, &amp;quot;c'est de la faute à la TVA&amp;quot;" title="Steve Jobs : si l'iPad est si cher en Europe, &amp;quot;c'est de la faute à la TVA&amp;quot;" xmlUrl="http://redirect.feediz.com/item-50019788-1837581294.html"/>
+				<outline type="rss" text="Open source : Linagora lorgne un Mandriva en difficulté" title="Open source : Linagora lorgne un Mandriva en difficulté" xmlUrl="http://redirect.feediz.com/item-56015788-1637380816.html"/>
+				<outline type="rss" text="Popfax : un nouvel outil d'envoi de fax depuis un smartphone" title="Popfax : un nouvel outil d'envoi de fax depuis un smartphone" xmlUrl="http://redirect.feediz.com/item-59015788-1637480516.html"/>
+				<outline type="rss" text="Google, Facebook et Foursquare en tête de la localisation sociale" title="Google, Facebook et Foursquare en tête de la localisation sociale" xmlUrl="http://redirect.feediz.com/item-52016788-1037880180.html"/>
+				<outline type="rss" text="Le WiGig veut s'imposer comme le futur standard haut débit sans fil" title="Le WiGig veut s'imposer comme le futur standard haut débit sans fil" xmlUrl="http://redirect.feediz.com/item-50015788-1837080169.html"/>
+				<outline type="rss" text="EDF : le grand chantier des compteurs communicants a commencé" title="EDF : le grand chantier des compteurs communicants a commencé" xmlUrl="http://redirect.feediz.com/item-53015788-1737979972.html"/>
+				<outline type="rss" text="Fort de son succès, Zaoza va s'attaquer aux TV connectées" title="Fort de son succès, Zaoza va s'attaquer aux TV connectées" xmlUrl="http://redirect.feediz.com/item-50019788-1237479126.html"/>
+				<outline type="rss" text="Philippe Vannier favori pour prendre la tête de Bull" title="Philippe Vannier favori pour prendre la tête de Bull" xmlUrl="http://redirect.feediz.com/item-55015788-1537878672.html"/>
+				<outline type="rss" text="Hurricane, la future tablette HP sous WebOS ?" title="Hurricane, la future tablette HP sous WebOS ?" xmlUrl="http://redirect.feediz.com/item-58019788-1737578629.html"/>
+				<outline type="rss" text="Découverte : iStreamer pour iPad, une &amp;amp;#171; rivière de flux &amp;amp;#187;" title="Découverte : iStreamer pour iPad, une &amp;amp;#171; rivière de flux &amp;amp;#187;" xmlUrl="http://redirect.feediz.com/item-51016788-1037078531.html"/>
+				<outline type="rss" text="Smartphones : Apple et Motorola grands gagnants du 1er trimestre" title="Smartphones : Apple et Motorola grands gagnants du 1er trimestre" xmlUrl="http://redirect.feediz.com/item-52010788-1537878523.html"/>
+				<outline type="rss" text="ARM teste un processeur pour serveurs" title="ARM teste un processeur pour serveurs" xmlUrl="http://redirect.feediz.com/item-56011788-1137378329.html"/>
+			</outline>
+			<outline text="Journal du Net Développeurs : A la Une">
+				<outline type="rss" text="Sogeti s'attaque aux problèmes de compatibilité applicative d'IE" title="Sogeti s'attaque aux problèmes de compatibilité applicative d'IE" xmlUrl="http://redirect.feediz.com/item-29416-1037807310.html"/>
+				<outline type="rss" text="Envoyer des e-mails via Gmail ou SMTP et TLS avec une application Ruby on Rails" title="Envoyer des e-mails via Gmail ou SMTP et TLS avec une application Ruby on Rails" xmlUrl="http://redirect.feediz.com/item-23418-1337606439.html"/>
+				<outline type="rss" text="Panorama des principales plates-formes de cloud computing" title="Panorama des principales plates-formes de cloud computing" xmlUrl="http://redirect.feediz.com/item-27418-1336193943.html"/>
+				<outline type="rss" text="Baisse de 2% du marché des outils de développement d'application" title="Baisse de 2% du marché des outils de développement d'application" xmlUrl="http://redirect.feediz.com/item-26419-1036093441.html"/>
+				<outline type="rss" text="Les salaires des développeurs par profils en 2010" title="Les salaires des développeurs par profils en 2010" xmlUrl="http://redirect.feediz.com/item-24411-1635951762.html"/>
+				<outline type="rss" text="Liste de commandes utiles sous Linux" title="Liste de commandes utiles sous Linux" xmlUrl="http://redirect.feediz.com/item-23417-1535751211.html"/>
+				<outline type="rss" text="Opera propose un émulateur pour Opera Mobile" title="Opera propose un émulateur pour Opera Mobile" xmlUrl="http://redirect.feediz.com/item-26415-1235951052.html"/>
+				<outline type="rss" text="Apache perd 2 millions de sites Web en avril 2010" title="Apache perd 2 millions de sites Web en avril 2010" xmlUrl="http://redirect.feediz.com/item-28411-1535650773.html"/>
+				<outline type="rss" text="Ne cibler que les navigateurs modernes grâce aux sélecteurs avancés" title="Ne cibler que les navigateurs modernes grâce aux sélecteurs avancés" xmlUrl="http://redirect.feediz.com/item-27419-1234317487.html"/>
+				<outline type="rss" text="91,5% de part de marché pour Windows en mars 2010" title="91,5% de part de marché pour Windows en mars 2010" xmlUrl="http://redirect.feediz.com/item-25418-1534915912.html"/>
+				<outline type="rss" text="Top des langages les plus populaires : Java cède sa première place à C" title="Top des langages les plus populaires : Java cède sa première place à C" xmlUrl="http://redirect.feediz.com/item-22414-1332037495.html"/>
+				<outline type="rss" text="Par Antoine Sabot-Durand (Ippon Technologies) : Les rendez-vous manqués de Spring" title="Par Antoine Sabot-Durand (Ippon Technologies) : Les rendez-vous manqués de Spring" xmlUrl="http://redirect.feediz.com/item-25410-1932440448.html"/>
+				<outline type="rss" text="Visual Studio 2010 : cap sur Windows 7 et l'optimisation des interfaces riches" title="Visual Studio 2010 : cap sur Windows 7 et l'optimisation des interfaces riches" xmlUrl="http://redirect.feediz.com/item-22410-1832722115.html"/>
+				<outline type="rss" text="Manuel d'accessibilité du Web : bonnes feuilles" title="Manuel d'accessibilité du Web : bonnes feuilles" xmlUrl="http://redirect.feediz.com/item-20411-1231765308.html"/>
+				<outline type="rss" text="jQuery 1.4 : décryptage" title="jQuery 1.4 : décryptage" xmlUrl="http://redirect.feediz.com/item-27415-1231154174.html"/>
+				<outline type="rss" text="87% des développeurs intéressés par les projets d'application pour iPhone" title="87% des développeurs intéressés par les projets d'application pour iPhone" xmlUrl="http://redirect.feediz.com/item-29413-1931640436.html"/>
+				<outline type="rss" text="Automatiser le test d'applications Web avec Selenium RC" title="Automatiser le test d'applications Web avec Selenium RC" xmlUrl="http://redirect.feediz.com/item-27419-1630573133.html"/>
+				<outline type="rss" text="24,5% de part de marché pour le serveur Web de Microsoft" title="24,5% de part de marché pour le serveur Web de Microsoft" xmlUrl="http://redirect.feediz.com/item-23410-1730259932.html"/>
+				<outline type="rss" text="Ovale et forme elliptique avec CSS3 sans image" title="Ovale et forme elliptique avec CSS3 sans image" xmlUrl="http://redirect.feediz.com/item-24417-1329372514.html"/>
+				<outline type="rss" text="32% des développeurs affichent un niveau master" title="32% des développeurs affichent un niveau master" xmlUrl="http://redirect.feediz.com/item-20418-1029670338.html"/>
+				<outline type="rss" text="Visual Studio 2010 : cap sur la gestion du cycle de vie des applications (2)" title="Visual Studio 2010 : cap sur la gestion du cycle de vie des applications (2)" xmlUrl="http://redirect.feediz.com/item-20412-1829014950.html"/>
+				<outline type="rss" text="Internet Explorer 9 : HTML 5 et multic½ur à l'honneur" title="Internet Explorer 9 : HTML 5 et multic½ur à l'honneur" xmlUrl="http://redirect.feediz.com/item-27419-1929214951.html"/>
+				<outline type="rss" text="7 conseils pour développer une application Web mobile" title="7 conseils pour développer une application Web mobile" xmlUrl="http://redirect.feediz.com/item-21416-1628673213.html"/>
+				<outline type="rss" text="26,5% des postes fixes connectés à Internet affichent des résolutions de 1024 × 768" title="26,5% des postes fixes connectés à Internet affichent des résolutions de 1024 × 768" xmlUrl="http://redirect.feediz.com/item-24412-1128073214.html"/>
+				<outline type="rss" text="Visual Studio 2010 : les nouveautés à la loupe (1)" title="Visual Studio 2010 : les nouveautés à la loupe (1)" xmlUrl="http://redirect.feediz.com/item-29412-1527392957.html"/>
+			</outline>
+			<outline text="Flux RSS de Programmez">
+				<outline type="rss" text="AMD publie les pilotes Catalyst 10.4" title="AMD publie les pilotes Catalyst 10.4" xmlUrl="http://redirect.feediz.com/item-716169-1336422337.html"/>
+				<outline type="rss" text="Ubuntu 10.04, alias Lucid Lynx, est arrivée !" title="Ubuntu 10.04, alias Lucid Lynx, est arrivée !" xmlUrl="http://redirect.feediz.com/item-746109-1236121869.html"/>
+				<outline type="rss" text="Sortie d'Opera 10.52 pour Windows et MAC OS X" title="Sortie d'Opera 10.52 pour Windows et MAC OS X" xmlUrl="http://redirect.feediz.com/item-716119-1436204954.html"/>
+				<outline type="rss" text="NetBeans 6.9 beta" title="NetBeans 6.9 beta" xmlUrl="http://redirect.feediz.com/item-726179-1536704302.html"/>
+				<outline type="rss" text="ReMIX 2010 Développeurs" title="ReMIX 2010 Développeurs" xmlUrl="http://redirect.feediz.com/item-796189-1636403991.html"/>
+				<outline type="rss" text="RIM présente BlackBerry 6" title="RIM présente BlackBerry 6" xmlUrl="http://redirect.feediz.com/item-706139-1836303337.html"/>
+				<outline type="rss" text="Microsoft lance Windows Embedded Standard 7 RTM" title="Microsoft lance Windows Embedded Standard 7 RTM" xmlUrl="http://redirect.feediz.com/item-786189-1636203338.html"/>
+				<outline type="rss" text="Adobe : les rencontres Designers et Développeurs" title="Adobe : les rencontres Designers et Développeurs" xmlUrl="http://redirect.feediz.com/item-776109-1936702587.html"/>
+				<outline type="rss" text="HP rachète Palm !" title="HP rachète Palm !" xmlUrl="http://redirect.feediz.com/item-736149-1636600838.html"/>
+				<outline type="rss" text="La vague SaaS : le nouvel atout pour les éditeurs de logiciel" title="La vague SaaS : le nouvel atout pour les éditeurs de logiciel" xmlUrl="http://redirect.feediz.com/item-796129-1835286162.html"/>
+			</outline>
+			<outline text="01net. Actualités">
+				<outline type="rss" text="Sondage : allez-vous craquer pour l'iPad ?" title="Sondage : allez-vous craquer pour l'iPad ?" xmlUrl="http://feediz.01net.com/item-252063-1837195565.html"/>
+				<outline type="rss" text="Nec promet de repérer des vidéos piratées en quelques secondes" title="Nec promet de repérer des vidéos piratées en quelques secondes" xmlUrl="http://feediz.01net.com/item-272063-1837082910.html"/>
+				<outline type="rss" text="Des compteurs d'électricité communiquant par CPL en test" title="Des compteurs d'électricité communiquant par CPL en test" xmlUrl="http://feediz.01net.com/item-202003-1037594902.html"/>
+				<outline type="rss" text="Quinze antivirus mis en échec par des étudiants en informatique" title="Quinze antivirus mis en échec par des étudiants en informatique" xmlUrl="http://feediz.01net.com/item-232013-1237882773.html"/>
+				<outline type="rss" text="Ubuntu Light, pour accéder au Web en quelques secondes" title="Ubuntu Light, pour accéder au Web en quelques secondes" xmlUrl="http://feediz.01net.com/item-202033-1037382695.html"/>
+				<outline type="rss" text="Top-Braille, lauréat du concours Lépine, convertit du texte imprimé en braille et en sons" title="Top-Braille, lauréat du concours Lépine, convertit du texte imprimé en braille et en sons" xmlUrl="http://feediz.01net.com/item-212013-1937681796.html"/>
+				<outline type="rss" text="Un bug de Facebook installait des applications sur votre profil" title="Un bug de Facebook installait des applications sur votre profil" xmlUrl="http://feediz.01net.com/item-222003-1637781573.html"/>
+				<outline type="rss" text="iPad : Steve Jobs répond à ses clients mécontents des prix européens" title="iPad : Steve Jobs répond à ses clients mécontents des prix européens" xmlUrl="http://feediz.01net.com/item-292083-1037380294.html"/>
+				<outline type="rss" text="Le site Rue89 va lui aussi se décliner en version papier" title="Le site Rue89 va lui aussi se décliner en version papier" xmlUrl="http://feediz.01net.com/item-292043-1637177903.html"/>
+				<outline type="rss" text="Orange et SFR dévoilent des forfaits pour l'iPad 3G (MAJ)" title="Orange et SFR dévoilent des forfaits pour l'iPad 3G (MAJ)" xmlUrl="http://feediz.01net.com/item-212003-1637240326.html"/>
+				<outline type="rss" text="Facebook, F. Mitterrand, TMG... tous nominés aux Big Brother Awards" title="Facebook, F. Mitterrand, TMG... tous nominés aux Big Brother Awards" xmlUrl="http://feediz.01net.com/item-272013-1137540985.html"/>
+				<outline type="rss" text="Sondage : qui est le Big Brother sur Internet en 2010 ?" title="Sondage : qui est le Big Brother sur Internet en 2010 ?" xmlUrl="http://feediz.01net.com/item-252083-1037840956.html"/>
+				<outline type="rss" text="Téléchargement : les dix meilleurs logiciels de la semaine" title="Téléchargement : les dix meilleurs logiciels de la semaine" xmlUrl="http://feediz.01net.com/item-272083-1537640649.html"/>
+				<outline type="rss" text="Culture geek : espionnage sur Facebook et téléphones HD" title="Culture geek : espionnage sur Facebook et téléphones HD" xmlUrl="http://feediz.01net.com/item-252033-1237739538.html"/>
+				<outline type="rss" text="Un décret d'Hadopi fait l'objet d'un recours devant le Conseil d'Etat" title="Un décret d'Hadopi fait l'objet d'un recours devant le Conseil d'Etat" xmlUrl="http://feediz.01net.com/item-272033-1337539349.html"/>
+				<outline type="rss" text="L'arabe arrive dans les extensions de noms de domaine" title="L'arabe arrive dans les extensions de noms de domaine" xmlUrl="http://feediz.01net.com/item-292033-1537338970.html"/>
+				<outline type="rss" text="L'iPad vendu à partir de 499 euros en France" title="L'iPad vendu à partir de 499 euros en France" xmlUrl="http://feediz.01net.com/item-252023-1137338524.html"/>
+				<outline type="rss" text="Après les apéros, les bagarres géantes Facebook" title="Après les apéros, les bagarres géantes Facebook" xmlUrl="http://feediz.01net.com/item-212063-1037137980.html"/>
+				<outline type="rss" text="La téléphonie mobile en léger recul pour la première fois depuis 2002" title="La téléphonie mobile en léger recul pour la première fois depuis 2002" xmlUrl="http://feediz.01net.com/item-252023-1637637040.html"/>
+				<outline type="rss" text="Internet Explorer 9 affiche ses progrès avec une nouvelle preview" title="Internet Explorer 9 affiche ses progrès avec une nouvelle preview" xmlUrl="http://feediz.01net.com/item-232083-1637026318.html"/>
+			</outline>
+			<outline text="Articles clubic">
+				<outline type="rss" text="Quelques informations sur le prochain LG Ally" title="Quelques informations sur le prochain LG Ally" xmlUrl="http://www.clubic.com/smartphone/android/actualite-339990-quelques-informations-sur-le-prochain-lg-ally.html"/>
+				<outline type="rss" text="Les Pays de la Loire passent à la TNT dans une semaine" title="Les Pays de la Loire passent à la TNT dans une semaine" xmlUrl="http://www.clubic.com/television-tv/tnt/actualite-340010-les-pays-de-la-loire-passent-a-la-tnt-dans-une-semaine.html"/>
+				<outline type="rss" text="Android progresse plus vite que l'iPhone" title="Android progresse plus vite que l'iPhone" xmlUrl="http://pro.clubic.com/entreprises/apple/actualite-339964-android-progresse-plus-vite-que-l-iphone.html"/>
+				<outline type="rss" text="Sony NEX-5 et NEX-3 : la famille des compacts hybrides s'agrandit !" title="Sony NEX-5 et NEX-3 : la famille des compacts hybrides s'agrandit !" xmlUrl="http://www.clubic.com/photo/appareils-photo/compact-numerique/actualite-339948-sony-nex-5-et-nex-3-la-famille-des-compacts-hybrides-s-agrandit.html"/>
+				<outline type="rss" text="Playstation Move de Sony : démonstration en vidéo" title="Playstation Move de Sony : démonstration en vidéo" xmlUrl="http://www.clubic.com/technologies-d-avenir/actualite-339952-playstation-move-de-sony-demonstration-en-video.html"/>
+				<outline type="rss" text="Peut-on espérer une bêta de Firefox 4.0 au mois de juin ?" title="Peut-on espérer une bêta de Firefox 4.0 au mois de juin ?" xmlUrl="http://www.clubic.com/navigateur-internet/mozilla-firefox/actualite-339940-peut-on-esperer-une-beta-de-firefox-4-0-au-mois-de-juin.html"/>
+				<outline type="rss" text="Twitter débloque et remet les compteurs à zéro" title="Twitter débloque et remet les compteurs à zéro" xmlUrl="http://www.clubic.com/site-internet/actualite-339922-twitter-debloque-et-remet-les-compteurs-a-zero.html"/>
+				<outline type="rss" text="PepperMint OS 1.0 disponible au téléchargement" title="PepperMint OS 1.0 disponible au téléchargement" xmlUrl="http://www.clubic.com/linux-os/actualite-339862-peppermint-os-1-0-disponible-au-telechargement.html"/>
+				<outline type="rss" text="Deux nouveaux processeurs en approche chez Intel" title="Deux nouveaux processeurs en approche chez Intel" xmlUrl="http://www.clubic.com/processeur/processeur-intel/actualite-339950-deux-nouveaux-processeurs-en-approche-chez-intel.html"/>
+				<outline type="rss" text="Frédéric Montagnon : «La rémunération dynamise les blogs»" title="Frédéric Montagnon : «La rémunération dynamise les blogs»" xmlUrl="http://pro.clubic.com/reseaux-sociaux-ugc/sites-communautaires/actualite-339748-frederic-montagnon-la-remuneration-dynamise-les-blogs.html"/>
+				<outline type="rss" text="Une faille 0-Day découverte sur Safari" title="Une faille 0-Day découverte sur Safari" xmlUrl="http://www.clubic.com/navigateur-internet/safari/actualite-339846-une-faille-0-day-decouverte-sur-safari.html"/>
+				<outline type="rss" text="Goldman Sachs accusé de vol de données par Ipreo" title="Goldman Sachs accusé de vol de données par Ipreo" xmlUrl="http://pro.clubic.com/legislation-loi-internet/propriete-intellectuelle/actualite-339842-goldman-sachs-accuse-de-vol-de-donnees-par-ipreo.html"/>
+				<outline type="rss" text="La tablette WePad, rebaptisée WeTab, en précommande en Allemagne" title="La tablette WePad, rebaptisée WeTab, en précommande en Allemagne" xmlUrl="http://www.clubic.com/tablette-internet-mid/actualite-339844-la-tablette-wepad-rebaptisee-wetab-en-precommande-en-allemagne.html"/>
+				<outline type="rss" text="Nouveau Sony Vaio P : compatible avec la &quot;lecture à distance&quot; de la PS3" title="Nouveau Sony Vaio P : compatible avec la &quot;lecture à distance&quot; de la PS3" xmlUrl="http://www.clubic.com/pc-portable/netbook/actualite-339854-nouveau-sony-vaio-p-compatible-avec-la-lecture-a-distance-de-la-ps3.html"/>
+				<outline type="rss" text="Après Orange, voici les forfaits iPad de SFR" title="Après Orange, voici les forfaits iPad de SFR" xmlUrl="http://www.clubic.com/tablette-internet-mid/ipad/actualite-339804-apres-orange-voici-les-forfaits-ipad-de-sfr.html"/>
+				<outline type="rss" text="Mise à jour du WirelessHD : de la 3D sans fil" title="Mise à jour du WirelessHD : de la 3D sans fil" xmlUrl="http://www.clubic.com/video/actualite-339816-mise-a-jour-du-wirelesshd-de-la-3d-sans-fil.html"/>
+				<outline type="rss" text="Le WiFi met le turbo avec le WiGig" title="Le WiFi met le turbo avec le WiGig" xmlUrl="http://www.clubic.com/reseau-informatique/wi-fi/actualite-339792-le-wifi-met-le-turbo-avec-le-wigig.html"/>
+				<outline type="rss" text="USA : La FCC lutte contre le piratage en autorisant le blocage des sorties analogiques" title="USA : La FCC lutte contre le piratage en autorisant le blocage des sorties analogiques" xmlUrl="http://www.clubic.com/television-tv/actualite-339790-usa-la-fcc-lutte-contre-le-piratage-en-autorisant-le-blocage-des-sorties-analogiques.html"/>
+				<outline type="rss" text="Canonical annonce Ubuntu Light pour les OEM" title="Canonical annonce Ubuntu Light pour les OEM" xmlUrl="http://www.clubic.com/linux-os/debian/ubuntu/actualite-339754-canonical-annonce-ubuntu-light-pour-les-oem.html"/>
+				<outline type="rss" text="Les iPad seront simlockés au Japon" title="Les iPad seront simlockés au Japon" xmlUrl="http://www.clubic.com/tablette-internet-mid/ipad/actualite-339746-les-ipad-seront-simlockes-au-japon.html"/>
+			</outline>
+			<outline text="Soldes et promotions, les bonnes affaires du web à prix discount">
+				<outline type="rss" text="Code réduction chez Nature &amp; Découvertes, le colissimo offert pour la fête des mères" title="Code réduction chez Nature &amp; Découvertes, le colissimo offert pour la fête des mères" xmlUrl="http://www.soldes-promotions.fr/code-reduction-chez-nature-decouvertes-le-colissimo-offert-pour-la-fete-des-meres-372"/>
+				<outline type="rss" text="Bonnes affaires sur le site 3Suisses.fr, Petit Electroménager, jusqu’à 50% de réduction" title="Bonnes affaires sur le site 3Suisses.fr, Petit Electroménager, jusqu’à 50% de réduction" xmlUrl="http://www.soldes-promotions.fr/bonnes-affaires-sur-le-site-3suisses-fr-petit-electromenager-jusqua-50-de-reduction-367"/>
+				<outline type="rss" text="Cadeau Fête des Mères chez Dr.Pierre Ricaud, Intervention Collagène gratuite, valeur 58€ !!" title="Cadeau Fête des Mères chez Dr.Pierre Ricaud, Intervention Collagène gratuite, valeur 58€ !!" xmlUrl="http://www.soldes-promotions.fr/cadeau-fete-des-meres-chez-dr-pierre-ricaud-intervention-collagene-gratuite-valeur-58e-358"/>
+				<outline type="rss" text="Carte Bleue Visa gratuite + 30€ offerts chez Boursorama Banque, le numéro 1 de la banque en ligne" title="Carte Bleue Visa gratuite + 30€ offerts chez Boursorama Banque, le numéro 1 de la banque en ligne" xmlUrl="http://www.soldes-promotions.fr/carte-bleue-visa-gratuite-30e-offerts-chez-boursorama-banque-le-numero-1-de-la-banque-en-ligne-352"/>
+				<outline type="rss" text="8% de réduction sur vos prochaines vacances d’été avec voyagesloisirs.com, l’agence de locations de vacances" title="8% de réduction sur vos prochaines vacances d’été avec voyagesloisirs.com, l’agence de locations de vacances" xmlUrl="http://www.soldes-promotions.fr/8-de-reduction-sur-vos-prochaines-vacances-dete-avec-voyagesloisirs-com-lagence-de-locations-de-vacances-346"/>
+				<outline type="rss" text="Réduction de 15% sur votre 1ère commande chez le spécialiste soins et parfums homme, Comptoir de l’Homme" title="Réduction de 15% sur votre 1ère commande chez le spécialiste soins et parfums homme, Comptoir de l’Homme" xmlUrl="http://www.soldes-promotions.fr/reduction-de-15-sur-votre-1ere-commande-chez-le-specialiste-soins-et-parfums-homme-comptoir-de-lhomme-342"/>
+				<outline type="rss" text="Soldes incroyables chez BrandAlley, ventes privées, jusqu’à 90% de réductions sur vos marques et créateurs préférés" title="Soldes incroyables chez BrandAlley, ventes privées, jusqu’à 90% de réductions sur vos marques et créateurs préférés" xmlUrl="http://www.soldes-promotions.fr/soldes-incroyables-chez-brandalley-ventes-privees-jusqua-90-de-reductions-sur-vos-marques-et-createurs-preferes-338"/>
+				<outline type="rss" text="Bonnes affaires sur laredoute.fr avec la nouvelle collection « S comme Sport »" title="Bonnes affaires sur laredoute.fr avec la nouvelle collection « S comme Sport »" xmlUrl="http://www.soldes-promotions.fr/bonnes-affaires-sur-laredoute-fr-avec-la-nouvelle-collection-s-comme-sport-334"/>
+				<outline type="rss" text="Des centaines de produits mode et beauté à petits prix, les bonnes affaires chez Yves Rocher" title="Des centaines de produits mode et beauté à petits prix, les bonnes affaires chez Yves Rocher" xmlUrl="http://www.soldes-promotions.fr/des-centaines-de-produits-mode-et-beaute-a-petits-prix-les-bonnes-affaires-chez-yves-rocher-329"/>
+				<outline type="rss" text="Sur Cabane-Chic.com, des ventes privées 100% enfants, mode, déco, accessoires, jusqu’à 70% de réduction" title="Sur Cabane-Chic.com, des ventes privées 100% enfants, mode, déco, accessoires, jusqu’à 70% de réduction" xmlUrl="http://www.soldes-promotions.fr/sur-cabane-chic-com-des-ventes-privees-100-enfants-mode-deco-accessoires-jusqua-70-de-reduction-324"/>
+			</outline>
+			<outline type="rss" text="Sage Project News" title="Sage Project News" xmlUrl="http://sage.mozdev.org/rss.xml"/>
+			<outline text="Advanced Web">
+				<outline type="rss" text="TUTO - Mise en page marron" title="TUTO - Mise en page marron" xmlUrl="http://www.advancedweb.fr/index.php?2010/05/05/1069-tuto-mise-en-page-marron"/>
+				<outline type="rss" text="E-COMMERCE GENEVE 2010" title="E-COMMERCE GENEVE 2010" xmlUrl="http://www.advancedweb.fr/index.php?2010/05/05/1073-e-commerce-geneve-2010"/>
+				<outline type="rss" text="Icônes FB et Twitter" title="Icônes FB et Twitter" xmlUrl="http://www.advancedweb.fr/index.php?2010/05/05/1076-icones-fb-et-twitter"/>
+				<outline type="rss" text="Blogger depuis l'espace" title="Blogger depuis l'espace" xmlUrl="http://www.advancedweb.fr/index.php?2010/05/05/1077-blogger-depuis-l-espace"/>
+				<outline type="rss" text="Drupal Lovers" title="Drupal Lovers" xmlUrl="http://www.advancedweb.fr/index.php?2010/05/04/1065-drupal-lovers"/>
+				<outline type="rss" text="TUTO - Mise en page bleue" title="TUTO - Mise en page bleue" xmlUrl="http://www.advancedweb.fr/index.php?2010/05/04/1070-tuto-mise-en-page-bleue"/>
+				<outline type="rss" text="Editeur de formulaire" title="Editeur de formulaire" xmlUrl="http://www.advancedweb.fr/index.php?2010/05/04/1060-editeur-de-formulaire"/>
+				<outline type="rss" text="Enquête" title="Enquête" xmlUrl="http://www.advancedweb.fr/index.php?2010/04/26/1059-enquete"/>
+				<outline type="rss" text="OFFRE SPECIALE !" title="OFFRE SPECIALE !" xmlUrl="http://www.advancedweb.fr/index.php?2010/04/24/1058-offre-speciale"/>
+				<outline type="rss" text="20 polices" title="20 polices" xmlUrl="http://www.advancedweb.fr/index.php?2010/04/19/1046-20-polices"/>
+			</outline>
+			<outline text="Java Technology Headlines">
+				<outline type="rss" text="2009 Annual Developer Quiz" title="2009 Annual Developer Quiz" xmlUrl="http://redirect.feediz.com/item-3429-1818219672.html"/>
+				<outline type="rss" text="Introducing the Java EE 6 Platform: Part 1" title="Introducing the Java EE 6 Platform: Part 1" xmlUrl="http://redirect.feediz.com/item-3224-1516377485.html"/>
+				<outline type="rss" text="What's New in JavaFX 1.2: Charts" title="What's New in JavaFX 1.2: Charts" xmlUrl="http://redirect.feediz.com/item-3329-1615955044.html"/>
+				<outline type="rss" text="New in JavaFX 1.2: RSS and Storage" title="New in JavaFX 1.2: RSS and Storage" xmlUrl="http://redirect.feediz.com/item-3026-1514385541.html"/>
+				<outline type="rss" text="Deep Dive Video: Java Warehouse and Java Store" title="Deep Dive Video: Java Warehouse and Java Store" xmlUrl="http://redirect.feediz.com/item-3327-1613423154.html"/>
+				<outline type="rss" text="Tech Tip: Using CDI and Dependency Injection for Java in a JSF 2.0 Application" title="Tech Tip: Using CDI and Dependency Injection for Java in a JSF 2.0 Application" xmlUrl="http://redirect.feediz.com/item-3228-1212235943.html"/>
+				<outline type="rss" text="MIDP 3.0 Features: Inter-MIDlet Communication and Events" title="MIDP 3.0 Features: Inter-MIDlet Communication and Events" xmlUrl="http://redirect.feediz.com/item-3625-1611848691.html"/>
+				<outline type="rss" text="A Java Developer's Quiz: Part Three" title="A Java Developer's Quiz: Part Three" xmlUrl="http://redirect.feediz.com/item-3024-1010996692.html"/>
+				<outline type="rss" text="Simple Strategy for Logging and Monitoring of MIDlets" title="Simple Strategy for Logging and Monitoring of MIDlets" xmlUrl="http://redirect.feediz.com/item-3529-1509189954.html"/>
+				<outline type="rss" text="Oracle Develop Offers Updates on Java Technology" title="Oracle Develop Offers Updates on Java Technology" xmlUrl="http://redirect.feediz.com/item-3721-1109089113.html"/>
+				<outline type="rss" text="Introducing Java DB 10.5.1" title="Introducing Java DB 10.5.1" xmlUrl="http://redirect.feediz.com/item-3624-1409271413.html"/>
+				<outline type="rss" text="destroyApp() Is Your Friend" title="destroyApp() Is Your Friend" xmlUrl="http://redirect.feediz.com/item-3829-1909655407.html"/>
+				<outline type="rss" text="Java Device Test Framework" title="Java Device Test Framework" xmlUrl="http://redirect.feediz.com/item-3123-1509855408.html"/>
+				<outline type="rss" text="Tech Tip: Locking and Concurrency in Java Persistence 2.0" title="Tech Tip: Locking and Concurrency in Java Persistence 2.0" xmlUrl="http://redirect.feediz.com/item-3729-1109655409.html"/>
+				<outline type="rss" text="Java Champion Kirk Pepperdine on Performance Tuning and Cloud Computing" title="Java Champion Kirk Pepperdine on Performance Tuning and Cloud Computing" xmlUrl="http://redirect.feediz.com/item-3326-1809255410.html"/>
+				<outline type="rss" text="Digital Signatures With Java ME SATSA" title="Digital Signatures With Java ME SATSA" xmlUrl="http://redirect.feediz.com/item-3721-1509555411.html"/>
+				<outline type="rss" text="Mixins in JavaFX 1.2 Technology" title="Mixins in JavaFX 1.2 Technology" xmlUrl="http://redirect.feediz.com/item-3725-1408028939.html"/>
+				<outline type="rss" text="Use NetBeans IDE 6.7 to Combine JAR Files Into a Single JAR File" title="Use NetBeans IDE 6.7 to Combine JAR Files Into a Single JAR File" xmlUrl="http://redirect.feediz.com/item-3122-1407113293.html"/>
+				<outline type="rss" text="A Sampling of EJB 3.1" title="A Sampling of EJB 3.1" xmlUrl="http://redirect.feediz.com/item-3326-1706393756.html"/>
+				<outline type="rss" text="The Garbage-First Garbage Collector" title="The Garbage-First Garbage Collector" xmlUrl="http://redirect.feediz.com/item-3128-1606593757.html"/>
+				<outline type="rss" text="Java Champion Adam Bien on Java EE and Cloud Computing" title="Java Champion Adam Bien on Java EE and Cloud Computing" xmlUrl="http://redirect.feediz.com/item-3225-1006393758.html"/>
+				<outline type="rss" text="2009 Java Rock Stars" title="2009 Java Rock Stars" xmlUrl="http://redirect.feediz.com/item-3426-1106693759.html"/>
+				<outline type="rss" text="Faster Data Transfer With Bluetooth and Contactless Communication" title="Faster Data Transfer With Bluetooth and Contactless Communication" xmlUrl="http://redirect.feediz.com/item-3529-1006993760.html"/>
+				<outline type="rss" text="Stream Control Transport Protocol (SCTP)" title="Stream Control Transport Protocol (SCTP)" xmlUrl="http://redirect.feediz.com/item-3127-1506493761.html"/>
+				<outline type="rss" text="Support for Dynamically Typed Languages in the Java Virtual Machine" title="Support for Dynamically Typed Languages in the Java Virtual Machine" xmlUrl="http://redirect.feediz.com/item-3225-1906193762.html"/>
+				<outline type="rss" text="All Things Java: Continuing the Conversation With Java Champion Alan Williamson" title="All Things Java: Continuing the Conversation With Java Champion Alan Williamson" xmlUrl="http://redirect.feediz.com/item-3722-1906093763.html"/>
+				<outline type="rss" text="Using JavaFX Mobile, Java ME, and the Messaging API (JSR 205)" title="Using JavaFX Mobile, Java ME, and the Messaging API (JSR 205)" xmlUrl="http://redirect.feediz.com/item-3027-1606993764.html"/>
+				<outline type="rss" text="Writing Java Applications Using Jersey to Interoperate With RESTful Web Services" title="Writing Java Applications Using Jersey to Interoperate With RESTful Web Services" xmlUrl="http://redirect.feediz.com/item-3325-1706793765.html"/>
+				<outline type="rss" text="Working with Bluetooth and GPS: Follow-up" title="Working with Bluetooth and GPS: Follow-up" xmlUrl="http://redirect.feediz.com/item-3622-1606393766.html"/>
+				<outline type="rss" text="'Design Patterns' for Dynamic Languages on the JVM Machine" title="'Design Patterns' for Dynamic Languages on the JVM Machine" xmlUrl="http://redirect.feediz.com/item-3924-1203092506.html"/>
+				<outline type="rss" text="Building Cool RIA Enterprise Applications With JavaFX" title="Building Cool RIA Enterprise Applications With JavaFX" xmlUrl="http://redirect.feediz.com/item-3723-1503892516.html"/>
+				<outline type="rss" text="The Developer Insight Series, Part 4: Favorite and Funny Code" title="The Developer Insight Series, Part 4: Favorite and Funny Code" xmlUrl="http://redirect.feediz.com/item-3028-1103292502.html"/>
+				<outline type="rss" text="Java ME SDKs: The State of the Union" title="Java ME SDKs: The State of the Union" xmlUrl="http://redirect.feediz.com/item-3624-1903092503.html"/>
+				<outline type="rss" text="2009 JavaOne Conference Wrap-Up: A Solid Show" title="2009 JavaOne Conference Wrap-Up: A Solid Show" xmlUrl="http://redirect.feediz.com/item-3023-1103692504.html"/>
+				<outline type="rss" text="James Gosling Hosts the Toy Show" title="James Gosling Hosts the Toy Show" xmlUrl="http://redirect.feediz.com/item-3328-1903392505.html"/>
+				<outline type="rss" text="&quot;Design Patterns&quot; for Dynamic Languages on the JVM Machine" title="&quot;Design Patterns&quot; for Dynamic Languages on the JVM Machine" xmlUrl="http://redirect.feediz.com/item-3928-1703992506.html"/>
+				<outline type="rss" text="Cloud Computing: Show Me the Money" title="Cloud Computing: Show Me the Money" xmlUrl="http://redirect.feediz.com/item-3925-1003092507.html"/>
+				<outline type="rss" text="Zembly: An Extensible Development Environment in the Cloud, for the Cloud" title="Zembly: An Extensible Development Environment in the Cloud, for the Cloud" xmlUrl="http://redirect.feediz.com/item-3623-1803992508.html"/>
+				<outline type="rss" text="Technical Session: A New Database for the Cloud" title="Technical Session: A New Database for the Cloud" xmlUrl="http://redirect.feediz.com/item-3929-1903392509.html"/>
+				<outline type="rss" text="Learn more about the goals of the Drizzle open-source project in building an optimized database." title="Learn more about the goals of the Drizzle open-source project in building an optimized database." xmlUrl="http://redirect.feediz.com/item-3525-1003892510.html"/>
+				<outline type="rss" text="JRuby on Rails in Production: Lessons Learned From Operating a Live, Real-World Site" title="JRuby on Rails in Production: Lessons Learned From Operating a Live, Real-World Site" xmlUrl="http://redirect.feediz.com/item-3229-1003492511.html"/>
+				<outline type="rss" text="Rock Star Matt Warman" title="Rock Star Matt Warman" xmlUrl="http://redirect.feediz.com/item-3524-1703892512.html"/>
+				<outline type="rss" text="IBM General Session: Driving Middle-Tier Innovation With Open Technologies" title="IBM General Session: Driving Middle-Tier Innovation With Open Technologies" xmlUrl="http://redirect.feediz.com/item-3722-1803892513.html"/>
+				<outline type="rss" text="RESTful Web Services Made Easy" title="RESTful Web Services Made Easy" xmlUrl="http://redirect.feediz.com/item-3129-1303192514.html"/>
+				<outline type="rss" text="Continuous Integration in the Cloud With Hudson" title="Continuous Integration in the Cloud With Hudson" xmlUrl="http://redirect.feediz.com/item-3122-1303392515.html"/>
+				<outline type="rss" text="Building Cool RIA Enterprise Applications With JavaFX" title="Building Cool RIA Enterprise Applications With JavaFX" xmlUrl="http://redirect.feediz.com/item-3429-1803992516.html"/>
+				<outline type="rss" text="Dynamic Languages Powered by GlassFish v3 Application Server" title="Dynamic Languages Powered by GlassFish v3 Application Server" xmlUrl="http://redirect.feediz.com/item-3522-1103492517.html"/>
+				<outline type="rss" text="Daily Prompt: JavaOne 2009 Is Almost Over!" title="Daily Prompt: JavaOne 2009 Is Almost Over!" xmlUrl="http://redirect.feediz.com/item-3022-1203792518.html"/>
+				<outline type="rss" text="Daily Prompt: Just Two More Days!" title="Daily Prompt: Just Two More Days!" xmlUrl="http://redirect.feediz.com/item-3620-1003192519.html"/>
+				<outline type="rss" text="Microsoft General Session: Taking Interoperability to the Next Level" title="Microsoft General Session: Taking Interoperability to the Next Level" xmlUrl="http://redirect.feediz.com/item-3120-1403892520.html"/>
+			</outline>
+			<outline text="phpSecure.INFO (PHPSecure présente dans cette section les dernieres niouzes)">
+				<outline type="rss" text="PHP Québec est fière de présenter la Conférence PHP Québec 2009." title="PHP Québec est fière de présenter la Conférence PHP Québec 2009." xmlUrl="http://redirect.feediz.com/item-30370-895787958.html"/>
+				<outline type="rss" text="Les CMS PortailPhp, Typo3 et Guppy dans Php Solutions Magazine Hors Serie (04/2007)" title="Les CMS PortailPhp, Typo3 et Guppy dans Php Solutions Magazine Hors Serie (04/2007)" xmlUrl="http://redirect.feediz.com/item-30370-191445545.html"/>
+				<outline type="rss" text="Dmx Forum &lt;= v2.1a SQL Injection, XSS, Full Path Disclorure, Cookie Bypass Login Authentification" title="Dmx Forum &lt;= v2.1a SQL Injection, XSS, Full Path Disclorure, Cookie Bypass Login Authentification" xmlUrl="http://redirect.feediz.com/item-31370-131415525.html"/>
+				<outline type="rss" text="CMS RPortal version 1.0.1 disponible" title="CMS RPortal version 1.0.1 disponible" xmlUrl="http://redirect.feediz.com/item-37371-191425649.html"/>
+				<outline type="rss" text="PHPSecAuth" title="PHPSecAuth" xmlUrl="http://redirect.feediz.com/item-35373-121425651.html"/>
+				<outline type="rss" text="Statistiques PHP pour février 2006" title="Statistiques PHP pour février 2006" xmlUrl="http://redirect.feediz.com/item-35378-191415627.html"/>
+				<outline type="rss" text="Construire sa solution de publicité en PHP" title="Construire sa solution de publicité en PHP" xmlUrl="http://redirect.feediz.com/item-37375-191445653.html"/>
+				<outline type="rss" text="Sortie de PortailPhp v2.0 !" title="Sortie de PortailPhp v2.0 !" xmlUrl="http://redirect.feediz.com/item-33373-101485547.html"/>
+				<outline type="rss" text="Easy Web Portal 1.1c" title="Easy Web Portal 1.1c" xmlUrl="http://redirect.feediz.com/item-37376-171425549.html"/>
+				<outline type="rss" text="Challenge SecuriTech 2006" title="Challenge SecuriTech 2006" xmlUrl="http://redirect.feediz.com/item-34376-171415655.html"/>
+			</outline>
+			<outline text="PHP Index - La passerelle française des technologies PHP: Hypertext Preprocessor">
+				<outline type="rss" text="Les rencontres Designers et Développeurs - Adobe &amp; Zend" title="Les rencontres Designers et Développeurs - Adobe &amp; Zend" xmlUrl="http://redirect.feediz.com/item-64706-1937304349.html"/>
+				<outline type="rss" text="Nouvelle version d'EasyPHP (5.3.2i) et modules (WordPress, Spip...)" title="Nouvelle version d'EasyPHP (5.3.2i) et modules (WordPress, Spip...)" xmlUrl="http://redirect.feediz.com/item-67702-1436989169.html"/>
+				<outline type="rss" text="Spip 2.1 est sorti" title="Spip 2.1 est sorti" xmlUrl="http://redirect.feediz.com/item-68704-1932606800.html"/>
+				<outline type="rss" text="EasyPHP 5.3.2 est disponible" title="EasyPHP 5.3.2 est disponible" xmlUrl="http://redirect.feediz.com/item-63708-1127459052.html"/>
+				<outline type="rss" text="Be-Zend 3ème édition" title="Be-Zend 3ème édition" xmlUrl="http://redirect.feediz.com/item-64700-1426867785.html"/>
+				<outline type="rss" text="Zend annonce la disponibilité de la version finale de Zend Server 5.0 : cette nouvelle version fournit une amélioration des performances, une résolution plus rapide des problèmes pour les applications PHP critiques." title="Zend annonce la disponibilité de la version finale de Zend Server 5.0 : cette nouvelle version fournit une amélioration des performances, une résolution plus rapide des problèmes pour les applications PHP critiques." xmlUrl="http://redirect.feediz.com/item-62709-1426919641.html"/>
+				<outline type="rss" text="PHP firewall le pare feu universel pour site web" title="PHP firewall le pare feu universel pour site web" xmlUrl="http://redirect.feediz.com/item-66706-1425228168.html"/>
+				<outline type="rss" text="Le sondage de Zend Technologies démontre la croissance rapide de la communauté de développeurs PHP Zend Framework" title="Le sondage de Zend Technologies démontre la croissance rapide de la communauté de développeurs PHP Zend Framework" xmlUrl="http://redirect.feediz.com/item-62707-1525803768.html"/>
+				<outline type="rss" text="2eme edition de Symfony Live" title="2eme edition de Symfony Live" xmlUrl="http://redirect.feediz.com/item-66705-1822398929.html"/>
+				<outline type="rss" text="Zend Framework ajoute le support de Microsoft Windows Azure et de la plateforme Developer Garden de Deutsche Telekom" title="Zend Framework ajoute le support de Microsoft Windows Azure et de la plateforme Developer Garden de Deutsche Telekom" xmlUrl="http://redirect.feediz.com/item-63701-1823312870.html"/>
+			</outline>
+			<outline text="Actualité PHP / MySQL (nexen.net)">
+				<outline type="rss" text="Devenir conférencier" title="Devenir conférencier" xmlUrl="http://redirect.feediz.com/item-3814-1837793904.html"/>
+				<outline type="rss" text="PostgreSQL 9.0beta 1" title="PostgreSQL 9.0beta 1" xmlUrl="http://redirect.feediz.com/item-3216-1037848850.html"/>
+				<outline type="rss" text="Deboguer avec Flex and PHP" title="Deboguer avec Flex and PHP" xmlUrl="http://redirect.feediz.com/item-3215-1337137921.html"/>
+				<outline type="rss" text="SDK pour Facebook" title="SDK pour Facebook" xmlUrl="http://redirect.feediz.com/item-3511-1637337741.html"/>
+				<outline type="rss" text="PHP solutions passe au numérique" title="PHP solutions passe au numérique" xmlUrl="http://redirect.feediz.com/item-3816-1737223831.html"/>
+				<outline type="rss" text="Rencontre Adobe et Zend" title="Rencontre Adobe et Zend" xmlUrl="http://redirect.feediz.com/item-3211-1937723832.html"/>
+				<outline type="rss" text="9 fonctionnalités à connaître" title="9 fonctionnalités à connaître" xmlUrl="http://redirect.feediz.com/item-3912-1337521308.html"/>
+				<outline type="rss" text="PHP Microbenchmarking" title="PHP Microbenchmarking" xmlUrl="http://redirect.feediz.com/item-3912-1937119853.html"/>
+				<outline type="rss" text="Ajax et Smarty" title="Ajax et Smarty" xmlUrl="http://redirect.feediz.com/item-3419-1837219854.html"/>
+				<outline type="rss" text="Prochaine version de PHP... la suite" title="Prochaine version de PHP... la suite" xmlUrl="http://redirect.feediz.com/item-3112-1437119855.html"/>
+				<outline type="rss" text="Tableau comporatif CMS" title="Tableau comporatif CMS" xmlUrl="http://redirect.feediz.com/item-3617-1237619856.html"/>
+				<outline type="rss" text="Opquast 2010 : Les bonnes pratiques" title="Opquast 2010 : Les bonnes pratiques" xmlUrl="http://redirect.feediz.com/item-3012-1636724789.html"/>
+				<outline type="rss" text="Conseils techniques pour les Expressions régulières" title="Conseils techniques pour les Expressions régulières" xmlUrl="http://redirect.feediz.com/item-3611-1836124404.html"/>
+				<outline type="rss" text="Google Summer of Code : la liste" title="Google Summer of Code : la liste" xmlUrl="http://redirect.feediz.com/item-3413-1336200619.html"/>
+				<outline type="rss" text="Git... it" title="Git... it" xmlUrl="http://redirect.feediz.com/item-3410-1036923776.html"/>
+			</outline>
+			<outline text="Hack a Day">
+				<outline type="rss" text="Hack Your Crystal’s Frequency" title="Hack Your Crystal’s Frequency" xmlUrl="http://hackaday.com/2010/05/10/hack-your-crystals-frequency/"/>
+				<outline type="rss" text="Color a Sound" title="Color a Sound" xmlUrl="http://hackaday.com/2010/05/10/color-a-sound/"/>
+				<outline type="rss" text="More glove-based interfaces" title="More glove-based interfaces" xmlUrl="http://hackaday.com/2010/05/10/more-glove-based-interfaces/"/>
+				<outline type="rss" text="FPS controller hacks getting easier" title="FPS controller hacks getting easier" xmlUrl="http://hackaday.com/2010/05/10/fps-controller-hacks-getting-easier/"/>
+				<outline type="rss" text="TOBY: reel mower bot evolved" title="TOBY: reel mower bot evolved" xmlUrl="http://hackaday.com/2010/05/10/toby-reel-mower-bot-evolved/"/>
+				<outline type="rss" text="Making a bluetooth SNES controller" title="Making a bluetooth SNES controller" xmlUrl="http://hackaday.com/2010/05/10/making-a-bluetooth-snes-controller/"/>
+				<outline type="rss" text="Twilio adds touch tone telephone control for Arduino" title="Twilio adds touch tone telephone control for Arduino" xmlUrl="http://hackaday.com/2010/05/09/twilio-adds-touch-tone-telephone-control-for-arduino/"/>
+				<outline type="rss" text="Multiple material 3D printing" title="Multiple material 3D printing" xmlUrl="http://hackaday.com/2010/05/09/multiple-material-3d-printing/"/>
+				<outline type="rss" text="Manual transmission gear sensor" title="Manual transmission gear sensor" xmlUrl="http://hackaday.com/2010/05/09/manual-transmission-gear%c2%a0sensor/"/>
+				<outline type="rss" text="Nimbus, portable N64" title="Nimbus, portable N64" xmlUrl="http://hackaday.com/2010/05/08/nimbus-portable-n64/"/>
+				<outline type="rss" text="XKCD takes a swipe at the Arduino" title="XKCD takes a swipe at the Arduino" xmlUrl="http://hackaday.com/2010/05/08/xkcd-takes-a-swipe-at-the-arduino/"/>
+				<outline type="rss" text="Making magnetite nanocrystals" title="Making magnetite nanocrystals" xmlUrl="http://hackaday.com/2010/05/08/making-magnetite-nanocrystals/"/>
+				<outline type="rss" text="Cornell final project list" title="Cornell final project list" xmlUrl="http://hackaday.com/2010/05/08/cornell-final-project-list/"/>
+				<outline type="rss" text="5×2 patch board" title="5×2 patch board" xmlUrl="http://hackaday.com/2010/05/07/5x2-patch-board/"/>
+				<outline type="rss" text="Reuse that PDA as a WRT terminal" title="Reuse that PDA as a WRT terminal" xmlUrl="http://hackaday.com/2010/05/07/reuse-that-pda-as-a-wrt-terminal/"/>
+			</outline>
+			<outline text="PHPFrance - Tutoriaux">
+				<outline type="rss" text="Manipuler des fichiers OpenDocument avec PHP" title="Manipuler des fichiers OpenDocument avec PHP" xmlUrl="http://www.phpfrance.com/tutoriaux/index.php/2009/05/25/53-manipuler-des-fichiers-opendocument-avec-php"/>
+				<outline type="rss" text="Un serveur d'objets en PHP 5 - 2ème partie" title="Un serveur d'objets en PHP 5 - 2ème partie" xmlUrl="http://www.phpfrance.com/tutoriaux/index.php/2008/04/30/51-un-serveur-d-objets-en-php-5-2eme-partie"/>
+				<outline type="rss" text="Réception de SMS" title="Réception de SMS" xmlUrl="http://www.phpfrance.com/tutoriaux/index.php/2008/04/29/50-reception-de-sms"/>
+				<outline type="rss" text="Un serveur d'objets en PHP 5 - 1ère partie" title="Un serveur d'objets en PHP 5 - 1ère partie" xmlUrl="http://www.phpfrance.com/tutoriaux/index.php/2008/04/21/49-serveur-objets-php5-1ere-partie"/>
+				<outline type="rss" text="Les nouveautés de PHP 6" title="Les nouveautés de PHP 6" xmlUrl="http://www.phpfrance.com/tutoriaux/index.php/2008/02/26/48-les-nouveautes-de-php-6"/>
+				<outline type="rss" text="Quel CMS pour mon projet web ?" title="Quel CMS pour mon projet web ?" xmlUrl="http://www.phpfrance.com/tutoriaux/index.php/2008/01/06/47-quel-cms-pour-mon-projet-web"/>
+				<outline type="rss" text="Le marché PHP en France" title="Le marché PHP en France" xmlUrl="http://www.phpfrance.com/tutoriaux/index.php/2007/12/20/46-le-marche-php-en-france"/>
+				<outline type="rss" text="Comment rediriger ?" title="Comment rediriger ?" xmlUrl="http://www.phpfrance.com/tutoriaux/index.php/2006/09/27/45-comment-rediriger"/>
+				<outline type="rss" text="Les méthodes magiques avec PHP 5" title="Les méthodes magiques avec PHP 5" xmlUrl="http://www.phpfrance.com/tutoriaux/index.php/2006/05/11/43-les-methodes-magiques-avec-php-5"/>
+				<outline type="rss" text="Les Templates (« modèles » ou  « gabarits »)" title="Les Templates (« modèles » ou  « gabarits »)" xmlUrl="http://www.phpfrance.com/tutoriaux/index.php/2006/03/26/42-les-templates-modeles-ou-gabarits"/>
+			</outline>
+			<outline text="Le Site du Zéro : l'actualité des tutoriels, de la communauté et du Web en général !">
+				<outline type="rss" text="Le protocole HTTP avec QtNetwork" title="Le protocole HTTP avec QtNetwork" xmlUrl="http://www.siteduzero.com/tutoriel-3-225114-le-protocole-http-avec-qtnetwork.html"/>
+				<outline type="rss" text="Créez vos jeux avec Game Maker" title="Créez vos jeux avec Game Maker" xmlUrl="http://www.siteduzero.com/tutoriel-3-239451-creez-vos-jeux-avec-game-maker.html"/>
+				<outline type="rss" text="Le GUI avec Qt, la suite" title="Le GUI avec Qt, la suite" xmlUrl="http://www.siteduzero.com/tutoriel-3-128040-le-gui-avec-qt-la-suite.html"/>
+				<outline type="rss" text="De la musique avec Caml" title="De la musique avec Caml" xmlUrl="http://www.siteduzero.com/tutoriel-3-243632-de-la-musique-avec-caml.html"/>
+				<outline type="rss" text="Tout sur L'OpenSim" title="Tout sur L'OpenSim" xmlUrl="http://www.siteduzero.com/tutoriel-3-186811-tout-sur-l-opensim.html"/>
+				<outline type="rss" text="Tout sur la configuration d'un serveur de jeu HL1" title="Tout sur la configuration d'un serveur de jeu HL1" xmlUrl="http://www.siteduzero.com/tutoriel-3-243075-tout-sur-la-configuration-d-un-serveur-de-jeu-hl1.html"/>
+				<outline type="rss" text="Introduction à l'ActionScript" title="Introduction à l'ActionScript" xmlUrl="http://www.siteduzero.com/tutoriel-3-7768-introduction-a-l-actionscript.html"/>
+				<outline type="rss" text="Faire un Demon sous Linux" title="Faire un Demon sous Linux" xmlUrl="http://www.siteduzero.com/tutoriel-3-234522-faire-un-demon-sous-linux.html"/>
+				<outline type="rss" text="Installer un serveur DNS avec djbdns sous debian" title="Installer un serveur DNS avec djbdns sous debian" xmlUrl="http://www.siteduzero.com/tutoriel-3-193247-installer-un-serveur-dns-avec-djbdns-sous-debian.html"/>
+				<outline type="rss" text="Le préprocesseur" title="Le préprocesseur" xmlUrl="http://www.siteduzero.com/tutoriel-3-206205-le-preprocesseur.html"/>
+				<outline type="rss" text="3ds Max pour les Zéros !" title="3ds Max pour les Zéros !" xmlUrl="http://www.siteduzero.com/tutoriel-3-240465-3ds-max-pour-les-zeros.html"/>
+				<outline type="rss" text="Le Camera Mapping avec Blender" title="Le Camera Mapping avec Blender" xmlUrl="http://www.siteduzero.com/tutoriel-3-240425-le-camera-mapping-avec-blender.html"/>
+				<outline type="rss" text="Découvrez Openbox, un gestionnaire de fenêtres léger" title="Découvrez Openbox, un gestionnaire de fenêtres léger" xmlUrl="http://www.siteduzero.com/tutoriel-3-240407-decouvrez-openbox-un-gestionnaire-de-fenetres-leger.html"/>
+				<outline type="rss" text="Installation FMOD avec Xcode" title="Installation FMOD avec Xcode" xmlUrl="http://www.siteduzero.com/tutoriel-3-192779-installation-fmod-avec-xcode.html"/>
+				<outline type="rss" text="[Langage] Amusons-nous avec le PHP" title="[Langage] Amusons-nous avec le PHP" xmlUrl="http://www.siteduzero.com/tutoriel-3-107881-langage-amusons-nous-avec-le-php.html"/>
+				<outline type="rss" text="Renvoyer un mot de passe par e-mail : la méthode Vernam" title="Renvoyer un mot de passe par e-mail : la méthode Vernam" xmlUrl="http://www.siteduzero.com/tutoriel-3-158277-renvoyer-un-mot-de-passe-par-e-mail-la-methode-vernam.html"/>
+				<outline type="rss" text="Créer un avatar aléatoire" title="Créer un avatar aléatoire" xmlUrl="http://www.siteduzero.com/tutoriel-3-235059-creer-un-avatar-aleatoire.html"/>
+				<outline type="rss" text="Le tri par insertion" title="Le tri par insertion" xmlUrl="http://www.siteduzero.com/tutoriel-3-36679-le-tri-par-insertion.html"/>
+				<outline type="rss" text="Cake PHP : du gâteau pour tous les zéros !" title="Cake PHP : du gâteau pour tous les zéros !" xmlUrl="http://www.siteduzero.com/tutoriel-3-115159-cake-php-du-gateau-pour-tous-les-zeros.html"/>
+				<outline type="rss" text="[POO] Programmer orienté objet en PHP" title="[POO] Programmer orienté objet en PHP" xmlUrl="http://www.siteduzero.com/tutoriel-3-147180-poo-programmer-oriente-objet-en-php.html"/>
+			</outline>
+			<outline text="Python News">
+				<outline type="rss" text="Python 2.7 beta 2 released" title="Python 2.7 beta 2 released" xmlUrl="http://www.python.org/news/index.html#Sat8May2010134500-0500"/>
+				<outline type="rss" text="SciPy 2010 in Austin, Texas - Early Registration ends Monday 5/10!" title="SciPy 2010 in Austin, Texas - Early Registration ends Monday 5/10!" xmlUrl="http://www.python.org/news/index.html#Tue7May2010141000-0500"/>
+				<outline type="rss" text="PyCon Australia Call for Proposals" title="PyCon Australia Call for Proposals" xmlUrl="http://www.python.org/news/index.html#Wed14April2010111500-0400"/>
+				<outline type="rss" text="Python 2.7 beta 1 released" title="Python 2.7 beta 1 released" xmlUrl="http://www.python.org/news/index.html#Sat10April2010140000-0600"/>
+				<outline type="rss" text="Google Summer of Code: call for participation" title="Google Summer of Code: call for participation" xmlUrl="http://www.python.org/news/index.html#Tue30Mar2010120000-0600"/>
+				<outline type="rss" text="EuroScipy call for papers" title="EuroScipy call for papers" xmlUrl="http://www.python.org/news/index.html#Fri26Mar2010080000-0600"/>
+				<outline type="rss" text="Python 3.1.2 released" title="Python 3.1.2 released" xmlUrl="http://www.python.org/news/index.html#Sun21Mar2010123000-0500"/>
+				<outline type="rss" text="Python 2.6.5 final" title="Python 2.6.5 final" xmlUrl="http://www.python.org/news/index.html#Fri19Mar2010184300-0400"/>
+				<outline type="rss" text="Python 2.6.5 release candidate 2" title="Python 2.6.5 release candidate 2" xmlUrl="http://www.python.org/news/index.html#Wed10Mar2010105600-0500"/>
+				<outline type="rss" text="Python 2.7 alpha 4 released" title="Python 2.7 alpha 4 released" xmlUrl="http://www.python.org/news/index.html#Sat06Mar2010163000-600"/>
+				<outline type="rss" text="Python 3.1.2rc1 released" title="Python 3.1.2rc1 released" xmlUrl="http://www.python.org/news/index.html#Sat06Mar2010160000-0600"/>
+				<outline type="rss" text="EuroPython 2010 registration and talk submissions now open!" title="EuroPython 2010 registration and talk submissions now open!" xmlUrl="http://www.python.org/news/index.html#Wed03Mar2010203000-0700"/>
+				<outline type="rss" text="Python 2.6.5 release candidate 1" title="Python 2.6.5 release candidate 1" xmlUrl="http://www.python.org/news/index.html#Mon01Mar2010180400-0500"/>
+				<outline type="rss" text="Bug tracker downtime" title="Bug tracker downtime" xmlUrl="http://www.python.org/news/index.html#Mon15Feb20100830001600"/>
+				<outline type="rss" text="Python 2.7 alpha 3 released" title="Python 2.7 alpha 3 released" xmlUrl="http://www.python.org/news/index.html#Sat06Feb20101200000600"/>
+				<outline type="rss" text="Python 2.5.5" title="Python 2.5.5" xmlUrl="http://www.python.org/news/index.html#Sun31Jan20101400000100"/>
+				<outline type="rss" text="Release Candidate 2 of Python 2.5.5" title="Release Candidate 2 of Python 2.5.5" xmlUrl="http://www.python.org/news/index.html#Sun24Jan20102100000100"/>
+				<outline type="rss" text="ConFoo.ca 2010 (Montreal): early bird rate ends soon" title="ConFoo.ca 2010 (Montreal): early bird rate ends soon" xmlUrl="http://www.python.org/news/index.html#Thu21Jan2010122000-0500"/>
+				<outline type="rss" text="Release Candidate 1 of Python 2.5.5" title="Release Candidate 1 of Python 2.5.5" xmlUrl="http://www.python.org/news/index.html#Thu14Jan20102230000100"/>
+				<outline type="rss" text="Second alpha of Python 2.7 released" title="Second alpha of Python 2.7 released" xmlUrl="http://www.python.org/news/index.html#Sat09Jan2010113000-0600"/>
+				<outline type="rss" text="PyCon Early Bird Registration Closes Soon!" title="PyCon Early Bird Registration Closes Soon!" xmlUrl="http://www.python.org/news/index.html#Thu05Jan2010123000-0500"/>
+				<outline type="rss" text="First alpha of Python 2.7 released" title="First alpha of Python 2.7 released" xmlUrl="http://www.python.org/news/index.html#Sat05Dec2009123000-0600"/>
+				<outline type="rss" text="PyPI poll on package comments" title="PyPI poll on package comments" xmlUrl="http://www.python.org/news/index.html#Fri13Nov2009820000100"/>
+				<outline type="rss" text="PSF Community Awards go to Noufal Ibrahim &amp; Barry Warsaw" title="PSF Community Awards go to Noufal Ibrahim &amp; Barry Warsaw" xmlUrl="http://www.python.org/news/index.html#Sun8Nov20091050000100"/>
+				<outline type="rss" text="SciPy India Call for Papers" title="SciPy India Call for Papers" xmlUrl="http://www.python.org/news/index.html#Thu5Nov2009184600-0500"/>
+			</outline>
+			<outline text="Le Site du Zéro : l'actualité des tutoriels, de la communauté et du Web en général !">
+				<outline type="rss" text="Le jeu Ryzom enfin libre !" title="Le jeu Ryzom enfin libre !" xmlUrl="http://www.siteduzero.com/news-62-36437-le-jeu-ryzom-enfin-libre.html"/>
+				<outline type="rss" text="Les précommandes du Livre du Zéro PHP &amp; MySQL sont ouvertes !" title="Les précommandes du Livre du Zéro PHP &amp; MySQL sont ouvertes !" xmlUrl="http://www.siteduzero.com/news-62-36434-les-precommandes-du-livre-du-zero-php-mysql-sont-ouvertes.html"/>
+				<outline type="rss" text="Jouer à Quake II dans votre navigateur, c'est désormais possible !" title="Jouer à Quake II dans votre navigateur, c'est désormais possible !" xmlUrl="http://www.siteduzero.com/news-62-36368-jouer-a-quake-ii-dans-votre-navigateur-c-est-desormais-possible.html"/>
+				<outline type="rss" text="Dernière vente des T-Shirts SdZ oubliés" title="Dernière vente des T-Shirts SdZ oubliés" xmlUrl="http://www.siteduzero.com/news-62-36380-derniere-vente-des-t-shirts-sdz-oublies.html"/>
+				<outline type="rss" text="Découvrez le langage ooc avec la sortie de son propre compilateur" title="Découvrez le langage ooc avec la sortie de son propre compilateur" xmlUrl="http://www.siteduzero.com/news-62-36319-decouvrez-le-langage-ooc-avec-la-sortie-de-son-propre-compilateur.html"/>
+				<outline type="rss" text="Les validateurs recrutent !" title="Les validateurs recrutent !" xmlUrl="http://www.siteduzero.com/news-62-36379-les-validateurs-recrutent.html"/>
+				<outline type="rss" text="Ubuntu 10.04 « Lucid Lynx » est là !" title="Ubuntu 10.04 « Lucid Lynx » est là !" xmlUrl="http://www.siteduzero.com/news-62-36053-ubuntu-10-04-lucid-lynx-est-la.html"/>
+				<outline type="rss" text="Une journée mondiale contre la gestion des droits numériques" title="Une journée mondiale contre la gestion des droits numériques" xmlUrl="http://www.siteduzero.com/news-62-36306-une-journee-mondiale-contre-la-gestion-des-droits-numeriques.html"/>
+				<outline type="rss" text="Participez au concours Alcatel Android Home en développant un « home screen » !" title="Participez au concours Alcatel Android Home en développant un « home screen » !" xmlUrl="http://www.siteduzero.com/news-62-36310-participez-au-concours-alcatel-android-home-en-developpant-un-home-screen.html"/>
+				<outline type="rss" text="Sortie de CouchDB 0.11" title="Sortie de CouchDB 0.11" xmlUrl="http://www.siteduzero.com/news-62-36259-sortie-de-couchdb-0-11.html"/>
+			</outline>
+			<outline text="Television | Fast Pass TV">
+				<outline type="rss" text="Nurse Jackie S2E8" title="Nurse Jackie S2E8" xmlUrl="http://www.fastpasstv.com/tv/nurse-jackie/season-2/episode-8/"/>
+				<outline type="rss" text="United States of Tara S2E8" title="United States of Tara S2E8" xmlUrl="http://www.fastpasstv.com/tv/united-states-of-tara/season-2/episode-8/"/>
+				<outline type="rss" text="Dancing With the Stars (US) S10E14" title="Dancing With the Stars (US) S10E14" xmlUrl="http://www.fastpasstv.com/tv/dancing-with-the-stars-us-/season-10/episode-14/"/>
+				<outline type="rss" text="Castle 2009 S2E23" title="Castle 2009 S2E23" xmlUrl="http://www.fastpasstv.com/tv/castle-2009/season-2/episode-23/"/>
+				<outline type="rss" text="Law and Order S20E20" title="Law and Order S20E20" xmlUrl="http://www.fastpasstv.com/tv/law-and-order/season-20/episode-20/"/>
+				<outline type="rss" text="NCIS: Los Angeles S1E22" title="NCIS: Los Angeles S1E22" xmlUrl="http://www.fastpasstv.com/tv/ncis-los-angeles/season-1/episode-22/"/>
+				<outline type="rss" text="The Big Bang Theory S3E21" title="The Big Bang Theory S3E21" xmlUrl="http://www.fastpasstv.com/tv/the-big-bang-theory/season-3/episode-21/"/>
+				<outline type="rss" text="Gossip Girl S3E21" title="Gossip Girl S3E21" xmlUrl="http://www.fastpasstv.com/tv/gossip-girl/season-3/episode-21/"/>
+				<outline type="rss" text="24 S8E21" title="24 S8E21" xmlUrl="http://www.fastpasstv.com/tv/24/season-8/episode-21/"/>
+				<outline type="rss" text="Two and a Half Men S7E20" title="Two and a Half Men S7E20" xmlUrl="http://www.fastpasstv.com/tv/two-and-a-half-men/season-7/episode-20/"/>
+				<outline type="rss" text="One Tree Hill S7E21" title="One Tree Hill S7E21" xmlUrl="http://www.fastpasstv.com/tv/one-tree-hill/season-7/episode-21/"/>
+				<outline type="rss" text="Chuck S3E16" title="Chuck S3E16" xmlUrl="http://www.fastpasstv.com/tv/chuck/season-3/episode-16/"/>
+				<outline type="rss" text="House S6E20" title="House S6E20" xmlUrl="http://www.fastpasstv.com/tv/house/season-6/episode-20/"/>
+				<outline type="rss" text="CSI: Miami S8E22" title="CSI: Miami S8E22" xmlUrl="http://www.fastpasstv.com/tv/csi-miami/season-8/episode-22/"/>
+				<outline type="rss" text="Rules of Engagement S4E11" title="Rules of Engagement S4E11" xmlUrl="http://www.fastpasstv.com/tv/rules-of-engagement/season-4/episode-11/"/>
+				<outline type="rss" text="10 Things I Hate About You S1E17" title="10 Things I Hate About You S1E17" xmlUrl="http://www.fastpasstv.com/tv/10-things-i-hate-about-you/season-1/episode-17/"/>
+				<outline type="rss" text="How I Met Your Mother S5E22" title="How I Met Your Mother S5E22" xmlUrl="http://www.fastpasstv.com/tv/how-i-met-your-mother/season-5/episode-22/"/>
+				<outline type="rss" text="Crash (UK) S2E1" title="Crash (UK) S2E1" xmlUrl="http://www.fastpasstv.com/tv/crash-uk-/season-2/episode-1/"/>
+				<outline type="rss" text="The Tudors S4E5" title="The Tudors S4E5" xmlUrl="http://www.fastpasstv.com/tv/the-tudors/season-4/episode-5/"/>
+				<outline type="rss" text="Extreme Makeover: Home Edition S7E23" title="Extreme Makeover: Home Edition S7E23" xmlUrl="http://www.fastpasstv.com/tv/extreme-makeover-home-edition/season-7/episode-23/"/>
+			</outline>
+			<outline text="Movies | Fast Pass TV">
+				<outline type="rss" text="Wild Things: Foursome (2010)" title="Wild Things: Foursome (2010)" xmlUrl="http://www.fastpasstv.com/movies/wild-things-foursome-2010/"/>
+				<outline type="rss" text="Furry Vengeance (2010)" title="Furry Vengeance (2010)" xmlUrl="http://www.fastpasstv.com/movies/furry-vengeance-2010/"/>
+				<outline type="rss" text="Geek Mythology (2008)" title="Geek Mythology (2008)" xmlUrl="http://www.fastpasstv.com/movies/geek-mythology-2008/"/>
+				<outline type="rss" text="St Trinian's 2: The Legend of Fritton's Gold (2009)" title="St Trinian's 2: The Legend of Fritton's Gold (2009)" xmlUrl="http://www.fastpasstv.com/movies/st-trinian-s-2-the-legend-of-fritton-s-gold-2009/"/>
+				<outline type="rss" text="Harlem Hostel (2010)" title="Harlem Hostel (2010)" xmlUrl="http://www.fastpasstv.com/movies/harlem-hostel-2010/"/>
+				<outline type="rss" text="The Sadness (2008)" title="The Sadness (2008)" xmlUrl="http://www.fastpasstv.com/movies/the-sadness-2008/"/>
+				<outline type="rss" text="Marrying Up (2008)" title="Marrying Up (2008)" xmlUrl="http://www.fastpasstv.com/movies/marrying-up-2008/"/>
+				<outline type="rss" text="My Nanny's Secret (2009)" title="My Nanny's Secret (2009)" xmlUrl="http://www.fastpasstv.com/movies/my-nanny-s-secret-2009/"/>
+				<outline type="rss" text="Killer Bitch (2010)" title="Killer Bitch (2010)" xmlUrl="http://www.fastpasstv.com/movies/killer-bitch-2010/"/>
+				<outline type="rss" text="Mother's Little Helpers (2010)" title="Mother's Little Helpers (2010)" xmlUrl="http://www.fastpasstv.com/movies/mother-s-little-helpers-2010/"/>
+				<outline type="rss" text="Before You Say 'I Do' (2009)" title="Before You Say 'I Do' (2009)" xmlUrl="http://www.fastpasstv.com/movies/before-you-say-i-do--2009/"/>
+				<outline type="rss" text="The Blue Tooth Virgin (2008)" title="The Blue Tooth Virgin (2008)" xmlUrl="http://www.fastpasstv.com/movies/the-blue-tooth-virgin-2008/"/>
+				<outline type="rss" text="Copperhead (2008)" title="Copperhead (2008)" xmlUrl="http://www.fastpasstv.com/movies/copperhead-2008/"/>
+				<outline type="rss" text="The Human Centipede (First Sequence) (2009)" title="The Human Centipede (First Sequence) (2009)" xmlUrl="http://www.fastpasstv.com/movies/the-human-centipede-first-sequence--2009/"/>
+				<outline type="rss" text="The Cook (2008)" title="The Cook (2008)" xmlUrl="http://www.fastpasstv.com/movies/the-cook-2008/"/>
+				<outline type="rss" text="Lost Dream (2009)" title="Lost Dream (2009)" xmlUrl="http://www.fastpasstv.com/movies/lost-dream-2009/"/>
+				<outline type="rss" text="A Fork in the Road (2010)" title="A Fork in the Road (2010)" xmlUrl="http://www.fastpasstv.com/movies/a-fork-in-the-road-2010/"/>
+				<outline type="rss" text="The Awakening of Spring (2008)" title="The Awakening of Spring (2008)" xmlUrl="http://www.fastpasstv.com/movies/the-awakening-of-spring-2008/"/>
+				<outline type="rss" text="The New Daughter (2009)" title="The New Daughter (2009)" xmlUrl="http://www.fastpasstv.com/movies/the-new-daughter-2009/"/>
+				<outline type="rss" text="Live Evil (2009)" title="Live Evil (2009)" xmlUrl="http://www.fastpasstv.com/movies/live-evil-2009/"/>
+			</outline>
+			<outline text="FrAndroid - LA communauté francophone Android">
+				<outline type="rss" text="Nexus One disponible chez SFR le 18 mai ?" title="Nexus One disponible chez SFR le 18 mai ?" xmlUrl="http://feedproxy.google.com/~r/Frandroid/~3/sxof1pTJsdE/"/>
+				<outline type="rss" text="Après le Backflip, le Motorola Flipout ?" title="Après le Backflip, le Motorola Flipout ?" xmlUrl="http://feedproxy.google.com/~r/Frandroid/~3/Uv233iBNSL0/"/>
+				<outline type="rss" text="Flash et Android 2.2 dans la même vidéo" title="Flash et Android 2.2 dans la même vidéo" xmlUrl="http://feedproxy.google.com/~r/Frandroid/~3/E-_o3NrZWPE/"/>
+				<outline type="rss" text="Testez en avant-première l’application Pana.ma !" title="Testez en avant-première l’application Pana.ma !" xmlUrl="http://feedproxy.google.com/~r/Frandroid/~3/QvRUWYi3_dc/"/>
+				<outline type="rss" text="Code : Développer une home sur Android" title="Code : Développer une home sur Android" xmlUrl="http://feedproxy.google.com/~r/Frandroid/~3/hTjC4TT4kPo/"/>
+				<outline type="rss" text="Android devant l’iPhone aux Etats-unis" title="Android devant l’iPhone aux Etats-unis" xmlUrl="http://feedproxy.google.com/~r/Frandroid/~3/aax32Pmv-7Q/"/>
+				<outline type="rss" text="Quake 3 sous Android sur le Nexus One" title="Quake 3 sous Android sur le Nexus One" xmlUrl="http://feedproxy.google.com/~r/Frandroid/~3/k4fyQ9ncaQ0/"/>
+				<outline type="rss" text="Android Task Tray et TaskOS, des gestionnaires de tâches très visuels" title="Android Task Tray et TaskOS, des gestionnaires de tâches très visuels" xmlUrl="http://feedproxy.google.com/~r/Frandroid/~3/e27mC2LYbFo/"/>
+				<outline type="rss" text="Premier test du Lenovo LePhone" title="Premier test du Lenovo LePhone" xmlUrl="http://feedproxy.google.com/~r/Frandroid/~3/m3eq_zZLnxs/"/>
+				<outline type="rss" text="Le HTC Desire à partir de 39 € avec SFR" title="Le HTC Desire à partir de 39 € avec SFR" xmlUrl="http://feedproxy.google.com/~r/Frandroid/~3/2_NzUX2y-Lg/"/>
+				<outline type="rss" text="Utilisez votre Wiimote avec Android" title="Utilisez votre Wiimote avec Android" xmlUrl="http://feedproxy.google.com/~r/Frandroid/~3/HILkC9fUsLU/"/>
+				<outline type="rss" text="Mise à jour 2.1 des tablettes V5 et V7 de SmartQ" title="Mise à jour 2.1 des tablettes V5 et V7 de SmartQ" xmlUrl="http://feedproxy.google.com/~r/Frandroid/~3/RXq2wLzL-0Y/"/>
+				<outline type="rss" text="Le quotidien Le Soir se dote d’une application Android" title="Le quotidien Le Soir se dote d’une application Android" xmlUrl="http://feedproxy.google.com/~r/Frandroid/~3/AxrZxgVcxpU/"/>
+				<outline type="rss" text="Bouygues Télécom, vers une vraie offre quadriplay ?" title="Bouygues Télécom, vers une vraie offre quadriplay ?" xmlUrl="http://feedproxy.google.com/~r/Frandroid/~3/4Q1d0nOK0KI/"/>
+				<outline type="rss" text="Dolphin Browser HD sur Android" title="Dolphin Browser HD sur Android" xmlUrl="http://feedproxy.google.com/~r/Frandroid/~3/_RrI5fd2KkU/"/>
+				<outline type="rss" text="Les applications Cherie FM, Nostalgie, NRJ et Rire et Chansons en beta test" title="Les applications Cherie FM, Nostalgie, NRJ et Rire et Chansons en beta test" xmlUrl="http://feedproxy.google.com/~r/Frandroid/~3/dZiu_D_XraE/"/>
+				<outline type="rss" text="Prise en main rapide du ZTE Link sous Android et disponibilité chez Bouygues Telecom" title="Prise en main rapide du ZTE Link sous Android et disponibilité chez Bouygues Telecom" xmlUrl="http://feedproxy.google.com/~r/Frandroid/~3/jii72dMQRHk/"/>
+				<outline type="rss" text="Prise en main de l’Archos 7 HT (Home Tablet)" title="Prise en main de l’Archos 7 HT (Home Tablet)" xmlUrl="http://feedproxy.google.com/~r/Frandroid/~3/G3aNp8-5CrE/"/>
+				<outline type="rss" text="Meizu M9, un terminal Android avec sortie HDMI" title="Meizu M9, un terminal Android avec sortie HDMI" xmlUrl="http://feedproxy.google.com/~r/Frandroid/~3/YG_sWv4PRpg/"/>
+				<outline type="rss" text="Android passe sur l’iPhone 3G" title="Android passe sur l’iPhone 3G" xmlUrl="http://feedproxy.google.com/~r/Frandroid/~3/804T5MP9l-w/"/>
+			</outline>
+			<outline text="AbriCoCotier.fr">
+				<outline type="rss" text="Administration d’un serveur : quelques commandes" title="Administration d’un serveur : quelques commandes" xmlUrl="http://www.abricocotier.fr/10807-administration-dun-serveur-quelques-commandes"/>
+				<outline type="rss" text="Avec Gianduia, Apple vise Flash et Silverlight, mais aussi GWT" title="Avec Gianduia, Apple vise Flash et Silverlight, mais aussi GWT" xmlUrl="http://www.abricocotier.fr/10816-avec-gianduia-apple-adobe-flash-et-silverlight-google-gwt"/>
+				<outline type="rss" text="7 Écrans 30 pouces avec une résolution de 2560×1600 : état des lieux" title="7 Écrans 30 pouces avec une résolution de 2560×1600 : état des lieux" xmlUrl="http://www.abricocotier.fr/10782-7-ecrans-30-pouces-avec-une-resolution-de-2560x1600-etat-des-lieux"/>
+				<outline type="rss" text="MegaUpload passe devant RapidShare, MediaFire en embuscade" title="MegaUpload passe devant RapidShare, MediaFire en embuscade" xmlUrl="http://www.abricocotier.fr/10789-megaupload-passe-devant-rapidshare-mediafire-en-embuscade"/>
+				<outline type="rss" text="Bumptop : Liens de téléchargement pour les versions gratuites" title="Bumptop : Liens de téléchargement pour les versions gratuites" xmlUrl="http://www.abricocotier.fr/10785-bumptop-liens-de-telechargement-pour-les-versions-gratuites"/>
+				<outline type="rss" text="Une mise à jour des Mac Mini en Octobre ?" title="Une mise à jour des Mac Mini en Octobre ?" xmlUrl="http://www.abricocotier.fr/10778-une-mise-a-jour-des-mac-mini-en-octobre"/>
+				<outline type="rss" text="16 superbes fonds d’écrans pour Ubuntu 10.04 Lucid Lynx" title="16 superbes fonds d’écrans pour Ubuntu 10.04 Lucid Lynx" xmlUrl="http://www.abricocotier.fr/10755-16-superbes-fonds-decrans-pour-ubuntu-10-04-lucid-lynx"/>
+				<outline type="rss" text="Questions-Réponses sur les serveurs pré-administrés de 1and1" title="Questions-Réponses sur les serveurs pré-administrés de 1and1" xmlUrl="http://www.abricocotier.fr/10743-questions-reponses-sur-les-serveurs-auto-administres-de-1and1"/>
+				<outline type="rss" text="Test de la clef USB TNT AverTv Vador HD" title="Test de la clef USB TNT AverTv Vador HD" xmlUrl="http://www.abricocotier.fr/10727-test-de-la-clef-usb-tnt-avertv-vador-hd"/>
+				<outline type="rss" text="A la recherche du clavier parfait : le Microsoft Arc est un bon prétendant" title="A la recherche du clavier parfait : le Microsoft Arc est un bon prétendant" xmlUrl="http://www.abricocotier.fr/10716-a-la-recherche-du-clavier-parfait-le-microsoft-arc-est-un-bon-pretendant"/>
+			</outline>
+			<outline text="Did you know?">
+				<outline type="rss" text="Hot Presidential affairs" title="Hot Presidential affairs" xmlUrl="http://didyouknow.org/hot-presidential-affairs/"/>
+				<outline type="rss" text="Feathers per square inch" title="Feathers per square inch" xmlUrl="http://didyouknow.org/feathers-per-square-inch/"/>
+				<outline type="rss" text="World’s first video arcade game" title="World’s first video arcade game" xmlUrl="http://didyouknow.org/worlds-first-video-arcade-game/"/>
+				<outline type="rss" text="The size of the sun in comparison" title="The size of the sun in comparison" xmlUrl="http://didyouknow.org/the-size-of-the-sun-in-comparison/"/>
+				<outline type="rss" text="Soft drink inventions" title="Soft drink inventions" xmlUrl="http://didyouknow.org/soft-drink-inventions/"/>
+			</outline>
+			<outline text="Vie de merde">
+				<outline type="rss" text="Virginie44 a une vie de merde" title="Virginie44 a une vie de merde" xmlUrl="http://feedproxy.google.com/~r/viedemerde/~3/_kYjx9g2QZk/2199430"/>
+				<outline type="rss" text="Monpopotam a une vie de merde" title="Monpopotam a une vie de merde" xmlUrl="http://feedproxy.google.com/~r/viedemerde/~3/PNiwELkI_lI/2198954"/>
+				<outline type="rss" text="Marie86 a une vie de merde" title="Marie86 a une vie de merde" xmlUrl="http://feedproxy.google.com/~r/viedemerde/~3/KBiVbNAHTu0/2198960"/>
+				<outline type="rss" text="just3-ski0 a une vie de merde" title="just3-ski0 a une vie de merde" xmlUrl="http://feedproxy.google.com/~r/viedemerde/~3/EJuPJGSR_Hc/2198493"/>
+				<outline type="rss" text="Grobi &amp; Co a une vie de merde" title="Grobi &amp; Co a une vie de merde" xmlUrl="http://feedproxy.google.com/~r/viedemerde/~3/joB0cuxGg2E/2197177"/>
+				<outline type="rss" text="SapEnilam a une vie de merde" title="SapEnilam a une vie de merde" xmlUrl="http://feedproxy.google.com/~r/viedemerde/~3/BASjcsXiCUw/2197058"/>
+				<outline type="rss" text="kaïpédam a une vie de merde" title="kaïpédam a une vie de merde" xmlUrl="http://feedproxy.google.com/~r/viedemerde/~3/4Y6Yrh8HZzA/2196974"/>
+				<outline type="rss" text="Inconnu a une vie de merde" title="Inconnu a une vie de merde" xmlUrl="http://feedproxy.google.com/~r/viedemerde/~3/MzNN8gd7glo/2196214"/>
+				<outline type="rss" text="Neyllie a une vie de merde" title="Neyllie a une vie de merde" xmlUrl="http://feedproxy.google.com/~r/viedemerde/~3/HLuqkBi5imw/2193872"/>
+				<outline type="rss" text="Julesc a une vie de merde" title="Julesc a une vie de merde" xmlUrl="http://feedproxy.google.com/~r/viedemerde/~3/dupcDUfBPFY/2192596"/>
+				<outline type="rss" text="april005 a une vie de merde" title="april005 a une vie de merde" xmlUrl="http://feedproxy.google.com/~r/viedemerde/~3/jLlpPgeMjN8/2192509"/>
+				<outline type="rss" text="L1sante a une vie de merde" title="L1sante a une vie de merde" xmlUrl="http://feedproxy.google.com/~r/viedemerde/~3/iN6GT_i3Do4/2192494"/>
+				<outline type="rss" text="tchoupi a une vie de merde" title="tchoupi a une vie de merde" xmlUrl="http://feedproxy.google.com/~r/viedemerde/~3/yE8l2tX0Ru0/2192294"/>
+				<outline type="rss" text="Wink a une vie de merde" title="Wink a une vie de merde" xmlUrl="http://feedproxy.google.com/~r/viedemerde/~3/FAWaMGOUJEo/2192003"/>
+				<outline type="rss" text="Boulette a une vie de merde" title="Boulette a une vie de merde" xmlUrl="http://feedproxy.google.com/~r/viedemerde/~3/Ltar3KNLqqY/2191592"/>
+				<outline type="rss" text="Toad a une vie de merde" title="Toad a une vie de merde" xmlUrl="http://feedproxy.google.com/~r/viedemerde/~3/bnEmOpHNea4/2190545"/>
+				<outline type="rss" text="Inconnu a une vie de merde" title="Inconnu a une vie de merde" xmlUrl="http://feedproxy.google.com/~r/viedemerde/~3/nNB2dl5Y1y4/2190264"/>
+				<outline type="rss" text="storm a une vie de merde" title="storm a une vie de merde" xmlUrl="http://feedproxy.google.com/~r/viedemerde/~3/m8du8pv9nPE/2187469"/>
+				<outline type="rss" text="Sheeby a une vie de merde" title="Sheeby a une vie de merde" xmlUrl="http://feedproxy.google.com/~r/viedemerde/~3/lTgdMrHqN0M/2186926"/>
+				<outline type="rss" text="Dr Maboul a une vie de merde" title="Dr Maboul a une vie de merde" xmlUrl="http://feedproxy.google.com/~r/viedemerde/~3/9S2yUpb9dGU/2185399"/>
+				<outline type="rss" text="Bouleto a une vie de merde" title="Bouleto a une vie de merde" xmlUrl="http://feedproxy.google.com/~r/viedemerde/~3/cp8yKdIc2Yc/2185150"/>
+				<outline type="rss" text="Quintus000 a une vie de merde" title="Quintus000 a une vie de merde" xmlUrl="http://feedproxy.google.com/~r/viedemerde/~3/ajSADYbjg5g/2184872"/>
+				<outline type="rss" text="Reporter a une vie de merde" title="Reporter a une vie de merde" xmlUrl="http://feedproxy.google.com/~r/viedemerde/~3/0x0iG_wu0r4/2182537"/>
+				<outline type="rss" text="charlieeppes a une vie de merde" title="charlieeppes a une vie de merde" xmlUrl="http://feedproxy.google.com/~r/viedemerde/~3/r8oaThR6_ps/2180663"/>
+				<outline type="rss" text="sable a une vie de merde" title="sable a une vie de merde" xmlUrl="http://feedproxy.google.com/~r/viedemerde/~3/VpMdL8vko0Q/2180271"/>
+				<outline type="rss" text="Mow a une vie de merde" title="Mow a une vie de merde" xmlUrl="http://feedproxy.google.com/~r/viedemerde/~3/3injnvRhhVY/2180175"/>
+				<outline type="rss" text="quinariencompris a une vie de merde" title="quinariencompris a une vie de merde" xmlUrl="http://feedproxy.google.com/~r/viedemerde/~3/RqmgDjjj_D4/2179764"/>
+				<outline type="rss" text="lulupasdebol a une vie de merde" title="lulupasdebol a une vie de merde" xmlUrl="http://feedproxy.google.com/~r/viedemerde/~3/sFKLYqZc2ZY/2179215"/>
+				<outline type="rss" text="gropourri a une vie de merde" title="gropourri a une vie de merde" xmlUrl="http://feedproxy.google.com/~r/viedemerde/~3/FyDKULTgONU/2177643"/>
+				<outline type="rss" text="Hugelinette a une vie de merde" title="Hugelinette a une vie de merde" xmlUrl="http://feedproxy.google.com/~r/viedemerde/~3/JVpbLQ4QpAA/2177245"/>
+				<outline type="rss" text="antipoil a une vie de merde" title="antipoil a une vie de merde" xmlUrl="http://feedproxy.google.com/~r/viedemerde/~3/1K8QEY2EpKo/2173966"/>
+				<outline type="rss" text="linette a une vie de merde" title="linette a une vie de merde" xmlUrl="http://feedproxy.google.com/~r/viedemerde/~3/nneTwMVQIw8/2173433"/>
+				<outline type="rss" text="Freez a une vie de merde" title="Freez a une vie de merde" xmlUrl="http://feedproxy.google.com/~r/viedemerde/~3/pqX7Pv3zjko/2173002"/>
+				<outline type="rss" text="zaz a une vie de merde" title="zaz a une vie de merde" xmlUrl="http://feedproxy.google.com/~r/viedemerde/~3/gh5bW6UlNdY/2172930"/>
+				<outline type="rss" text="MariePorru a une vie de merde" title="MariePorru a une vie de merde" xmlUrl="http://feedproxy.google.com/~r/viedemerde/~3/x1Q7VpWrng4/2172683"/>
+			</outline>
+			<outline text="Tom's Guide FR">
+				<outline type="rss" text="Avatar : la réalité augmentée pour se transformer en Na'vi" title="Avatar : la réalité augmentée pour se transformer en Na'vi" xmlUrl="http://www.infos-du-net.com/actualite/16976-avatar-realite-augmentee-morphing.html#xtor=RSS-20"/>
+				<outline type="rss" text="Playstation Move : déjà un prix ?" title="Playstation Move : déjà un prix ?" xmlUrl="http://www.bestofmicro.com/actualite/27775-prix-playstation-move.html#xtor=RSS-20"/>
+				<outline type="rss" text="Twitter : une faille de sécurité remet les compteurs à zéro" title="Twitter : une faille de sécurité remet les compteurs à zéro" xmlUrl="http://www.infos-du-net.com/actualite/16974-twitter-compteur.html#xtor=RSS-20"/>
+				<outline type="rss" text="Incroyables souris !" title="Incroyables souris !" xmlUrl="http://www.bestofmicro.com/actualite/photoreportages/130-truly-unique-mouse-mice.html#xtor=RSS-20"/>
+				<outline type="rss" text="Firefox 4 : le plein de nouveautés" title="Firefox 4 : le plein de nouveautés" xmlUrl="http://www.infos-du-net.com/actualite/16975-mozilla-firefox.html#xtor=RSS-20"/>
+				<outline type="rss" text="Toshiba : le 13&quot; le plus léger au monde ?" title="Toshiba : le 13&quot; le plus léger au monde ?" xmlUrl="http://www.bestofmicro.com/actualite/27773-Toshiba-portable-leger.html#xtor=RSS-20"/>
+				<outline type="rss" text="Les souris les plus folles" title="Les souris les plus folles" xmlUrl="http://www.bestofmicro.com/actualite/27774-souris-design.html#xtor=RSS-20"/>
+				<outline type="rss" text="Wikipedia et la pornographie : le FBI s’en mêle" title="Wikipedia et la pornographie : le FBI s’en mêle" xmlUrl="http://www.infos-du-net.com/actualite/16973-pronographie-Wikipedia-FBI.html#xtor=RSS-20"/>
+				<outline type="rss" text="Une robe invisible : le gadget high tech ultime ?" title="Une robe invisible : le gadget high tech ultime ?" xmlUrl="http://www.bestofmicro.com/actualite/27772-robe-transparente-invisible.html#xtor=RSS-20"/>
+				<outline type="rss" text="Les Français rechignent à payer sur Internet" title="Les Français rechignent à payer sur Internet" xmlUrl="http://www.infos-du-net.com/actualite/16972-internet-payer-francais.html#xtor=RSS-20"/>
+				<outline type="rss" text="L'iPhone hérite du correcteur de l'iPad" title="L'iPhone hérite du correcteur de l'iPad" xmlUrl="http://www.bestofmicro.com/actualite/27770-iPad-correcteur-iPhone.html#xtor=RSS-20"/>
+				<outline type="rss" text="Un lecteur de braille miniature gagne le concours Lépine" title="Un lecteur de braille miniature gagne le concours Lépine" xmlUrl="http://www.bestofmicro.com/actualite/27771-top-braille-lepine.html#xtor=RSS-20"/>
+				<outline type="rss" text="Un site de rencontre pour les mordus d'Apple" title="Un site de rencontre pour les mordus d'Apple" xmlUrl="http://www.infos-du-net.com/actualite/16971-apple-Cupidtino.html#xtor=RSS-20"/>
+				<outline type="rss" text="Bouygues Telecom : quadruple play avec mobile illimité pour 99 €" title="Bouygues Telecom : quadruple play avec mobile illimité pour 99 €" xmlUrl="http://www.infos-du-net.com/actualite/16970-mobile-illimite.html#xtor=RSS-20"/>
+				<outline type="rss" text="HTC Desire : le top du smartphone Android ?" title="HTC Desire : le top du smartphone Android ?" xmlUrl="http://www.bestofmicro.com/actualite/27769-Desire-android-smartphone.html#xtor=RSS-20"/>
+				<outline type="rss" text="Accéléromètre et touchpad pour les VAIO P" title="Accéléromètre et touchpad pour les VAIO P" xmlUrl="http://www.bestofmicro.com/actualite/27768-Sony-netbook.html#xtor=RSS-20"/>
+				<outline type="rss" text="Hugo Chavez engage 200 personnes pour gérer son compte Twitter" title="Hugo Chavez engage 200 personnes pour gérer son compte Twitter" xmlUrl="http://www.infos-du-net.com/actualite/16969-chavez-twitter.html#xtor=RSS-20"/>
+				<outline type="rss" text="La géolocalisation Facebook imminente" title="La géolocalisation Facebook imminente" xmlUrl="http://www.infos-du-net.com/actualite/16968-facebook-geolocalisation.html#xtor=RSS-20"/>
+				<outline type="rss" text="HTC Desire : le plus abouti des smartphone Android ?" title="HTC Desire : le plus abouti des smartphone Android ?" xmlUrl="http://www.bestofmicro.com/actualite/test/892-1-desire-android-smartphone.html#xtor=RSS-20"/>
+				<outline type="rss" text="Des nouvelles du Motorola MT810" title="Des nouvelles du Motorola MT810" xmlUrl="http://www.bestofmicro.com/actualite/27767-MT810-parallaxe.html#xtor=RSS-20"/>
+				<outline type="rss" text="Les logiciels qu'il ne fallait pas manquer cette semaine (Photoshop CS5, Internet Explorer 9, BurnAware, etc.)" title="Les logiciels qu'il ne fallait pas manquer cette semaine (Photoshop CS5, Internet Explorer 9, BurnAware, etc.)" xmlUrl="http://www.infos-du-net.com/actualite/16965-selection-logiciel.html#xtor=RSS-20"/>
+				<outline type="rss" text="Blink, un logiciel de reconnaissance faciale pour lancer Windows" title="Blink, un logiciel de reconnaissance faciale pour lancer Windows" xmlUrl="http://www.infos-du-net.com/actualite/16966-blink-windows.html#xtor=RSS-20"/>
+				<outline type="rss" text="S'il ne devait y avoir que 10 infos..." title="S'il ne devait y avoir que 10 infos..." xmlUrl="http://www.infos-du-net.com/actualite/16967-top-10-actu.html#xtor=RSS-20"/>
+				<outline type="rss" text="Le top 10 de l'actu high-tech de la semaine" title="Le top 10 de l'actu high-tech de la semaine" xmlUrl="http://www.infos-du-net.com/actualite/photoreportages/220-top-10-actu.html#xtor=RSS-20"/>
+				<outline type="rss" text="Hadopi : une ultime tentative d'annulation au Conseil d'Etat" title="Hadopi : une ultime tentative d'annulation au Conseil d'Etat" xmlUrl="http://www.infos-du-net.com/actualite/16963-hadopi-annulation-recours.html#xtor=RSS-20"/>
+				<outline type="rss" text="Après les apéritifs, les bagarres géantes organisées via Facebook" title="Après les apéritifs, les bagarres géantes organisées via Facebook" xmlUrl="http://www.infos-du-net.com/actualite/16961-facebook-bagarre-geante.html#xtor=RSS-20"/>
+				<outline type="rss" text="iPad en France : date et prix officialisés" title="iPad en France : date et prix officialisés" xmlUrl="http://www.bestofmicro.com/actualite/27766-prix-iPad.html#xtor=RSS-20"/>
+				<outline type="rss" text="Lecteur-testeur : Blackberry Bold 9700" title="Lecteur-testeur : Blackberry Bold 9700" xmlUrl="http://www.infos-du-net.com/actualite/16964-Blackberry-Bold-9700.html#xtor=RSS-20"/>
+				<outline type="rss" text="Polémique Facebook : des applications qui s'ajoutent au profil en secret" title="Polémique Facebook : des applications qui s'ajoutent au profil en secret" xmlUrl="http://www.infos-du-net.com/actualite/16962-applications-facebook.html#xtor=RSS-20"/>
+				<outline type="rss" text="Logitech S315i : un dock iPod nomade en test" title="Logitech S315i : un dock iPod nomade en test" xmlUrl="http://www.bestofmicro.com/actualite/27765-S315i-dock-ipod.html#xtor=RSS-20"/>
+			</outline>
+			<outline text="Css,feuilles de style, php, webdesign rss, news et Chroniques sur Excargot Lounge">
+				<outline type="rss" text="CSS3 et border-image" title="CSS3 et border-image" xmlUrl="http://excargot.net/2010/01/css3-et-border-image/"/>
+				<outline type="rss" text="Des labels qui glissent" title="Des labels qui glissent" xmlUrl="http://excargot.net/2010/01/des-labels-qui-glissent/"/>
+				<outline type="rss" text="Et c’est reparti pour une année" title="Et c’est reparti pour une année" xmlUrl="http://excargot.net/2010/01/et-cest-reparti-pour-une-annee/"/>
+				<outline type="rss" text="Un générateur de dégradés pour CSS3" title="Un générateur de dégradés pour CSS3" xmlUrl="http://excargot.net/2010/01/un-generateur-de-degrades-pour-css3/"/>
+				<outline type="rss" text="Un framework pour mettre en page des formulaires" title="Un framework pour mettre en page des formulaires" xmlUrl="http://excargot.net/2010/01/un-framework-pour-mettre-en-page-des-formulaires/"/>
+				<outline type="rss" text="Un slideshow 3D en flash" title="Un slideshow 3D en flash" xmlUrl="http://excargot.net/2009/12/un-slideshow-3d-en-flash/"/>
+				<outline type="rss" text="Un carrousel d’éléments HTML" title="Un carrousel d’éléments HTML" xmlUrl="http://excargot.net/2009/12/un-carrousel-html/"/>
+				<outline type="rss" text="De la fausse 3D à l’aide de CSS3" title="De la fausse 3D à l’aide de CSS3" xmlUrl="http://excargot.net/2009/12/de-la-fausse-3d-a-laide-de-css3/"/>
+				<outline type="rss" text="HTML5 Cheat Sheet" title="HTML5 Cheat Sheet" xmlUrl="http://excargot.net/2009/12/html5-cheat-sheet/"/>
+				<outline type="rss" text="Gérer les queues avec jQuery" title="Gérer les queues avec jQuery" xmlUrl="http://excargot.net/2009/12/gerer-les-queues-avec-jquery/"/>
+			</outline>
+			<outline text="Smashing Magazine Feed">
+				<outline type="rss" text="Imagine A Pie Chart Stomping On An Infographic Forever" title="Imagine A Pie Chart Stomping On An Infographic Forever" xmlUrl="http://www.smashingmagazine.com/2010/05/10/imagine-a-pie-chart-stomping-on-an-infographic-forever/"/>
+				<outline type="rss" text="50 Helpful Typography Tools And Resources" title="50 Helpful Typography Tools And Resources" xmlUrl="http://www.smashingmagazine.com/2010/05/06/50-helpful-typography-tools-and-resources/"/>
+				<outline type="rss" text="Modern CSS Layouts, Part 2: The Essential Techniques" title="Modern CSS Layouts, Part 2: The Essential Techniques" xmlUrl="http://www.smashingmagazine.com/2010/05/06/modern-css-layouts-part-2-the-essential-techniques/"/>
+				<outline type="rss" text="The Poetics Of Coding" title="The Poetics Of Coding" xmlUrl="http://www.smashingmagazine.com/2010/05/05/the-poetics-of-coding/"/>
+				<outline type="rss" text="The Current State of Web Design: Trends 2010" title="The Current State of Web Design: Trends 2010" xmlUrl="http://www.smashingmagazine.com/2010/05/04/web-design-trends-2010/"/>
+				<outline type="rss" text="VI Editor / Linux Terminal Cheat Sheet (PDF)" title="VI Editor / Linux Terminal Cheat Sheet (PDF)" xmlUrl="http://www.smashingmagazine.com/2010/05/03/vi-editor-linux-terminal-cheat-sheet-pdf/"/>
+				<outline type="rss" text="Joomla And WordPress: A Matter Of Mental Models" title="Joomla And WordPress: A Matter Of Mental Models" xmlUrl="http://www.smashingmagazine.com/2010/05/03/joomla-and-wordpress-a-matter-of-mental-models/"/>
+				<outline type="rss" text="Symmetry: A Balancing Act In Two (Or More) Parts" title="Symmetry: A Balancing Act In Two (Or More) Parts" xmlUrl="http://www.smashingmagazine.com/2010/05/02/symmetry-a-balancing-act-in-two-or-more-parts/"/>
+				<outline type="rss" text="Desktop Wallpaper Calendar: May 2010" title="Desktop Wallpaper Calendar: May 2010" xmlUrl="http://www.smashingmagazine.com/2010/04/30/desktop-wallpaper-calendar-may-2010-2/"/>
+				<outline type="rss" text="Extend WordPress With Custom Fields" title="Extend WordPress With Custom Fields" xmlUrl="http://www.smashingmagazine.com/2010/04/29/extend-wordpress-with-custom-fields/"/>
+			</outline>
+			<outline text="Most Viewed">
+				<outline type="rss" text="Julien, ingénieur en informatique - L'amour est aveugle, TF1" title="Julien, ingénieur en informatique - L'amour est aveugle, TF1" xmlUrl="http://www.youtube.com/watch?v=-bl8pJecGdc&amp;feature=youtube_gdata"/>
+				<outline type="rss" text="Francois Steyn monster drop goal against Clermont" title="Francois Steyn monster drop goal against Clermont" xmlUrl="http://www.youtube.com/watch?v=_HVqAGcUAfE&amp;feature=youtube_gdata"/>
+				<outline type="rss" text="But de Djebbour face à Aris 09/05/2010" title="But de Djebbour face à Aris 09/05/2010" xmlUrl="http://www.youtube.com/watch?v=ms3hiEsmQTU&amp;feature=youtube_gdata"/>
+				<outline type="rss" text="Les mecs les plus beaux TOP10" title="Les mecs les plus beaux TOP10" xmlUrl="http://www.youtube.com/watch?v=kj8CnwSPwv0&amp;feature=youtube_gdata"/>
+				<outline type="rss" text="but" title="but" xmlUrl="http://www.youtube.com/watch?v=SpLS3FqlaJo&amp;feature=youtube_gdata"/>
+				<outline type="rss" text="Arretez de critiquer mes vidéos !" title="Arretez de critiquer mes vidéos !" xmlUrl="http://www.youtube.com/watch?v=sufXl_PpKAk&amp;feature=youtube_gdata"/>
+				<outline type="rss" text="Use Apple iPad with Magic Mouse [Jailbreak]" title="Use Apple iPad with Magic Mouse [Jailbreak]" xmlUrl="http://www.youtube.com/watch?v=2wklrVOFMKA&amp;feature=youtube_gdata"/>
+				<outline type="rss" text="OH PUTAIN ! Des hommes chantent &quot;Bad Romance&quot; de Lady GaGa Acapella" title="OH PUTAIN ! Des hommes chantent &quot;Bad Romance&quot; de Lady GaGa Acapella" xmlUrl="http://www.youtube.com/watch?v=PuvXprZuJ9A&amp;feature=youtube_gdata"/>
+				<outline type="rss" text="Aulas en colère contre l'arbitre Mr Bré" title="Aulas en colère contre l'arbitre Mr Bré" xmlUrl="http://www.youtube.com/watch?v=qQImCljyWDc&amp;feature=youtube_gdata"/>
+				<outline type="rss" text="Clip Musical - Julien (L'Amour est aveugle)" title="Clip Musical - Julien (L'Amour est aveugle)" xmlUrl="http://www.youtube.com/watch?v=mdSD9Njzq_g&amp;feature=youtube_gdata"/>
+				<outline type="rss" text="9mai2010_Part1" title="9mai2010_Part1" xmlUrl="http://www.youtube.com/watch?v=qAejguBb6kc&amp;feature=youtube_gdata"/>
+				<outline type="rss" text="LILLE MARSEILLE 3-2 8/05/2010" title="LILLE MARSEILLE 3-2 8/05/2010" xmlUrl="http://www.youtube.com/watch?v=gz2hDi6Cmo0&amp;feature=youtube_gdata"/>
+				<outline type="rss" text="Les secrets d'Elwynn" title="Les secrets d'Elwynn" xmlUrl="http://www.youtube.com/watch?v=sj0xHMXY7_A&amp;feature=youtube_gdata"/>
+				<outline type="rss" text="Marocfootball.info - Les adieux de Chamakh à Chaban-Delma" title="Marocfootball.info - Les adieux de Chamakh à Chaban-Delma" xmlUrl="http://www.youtube.com/watch?v=JfleUONrvk8&amp;feature=youtube_gdata"/>
+				<outline type="rss" text="Lady Gaga Acapella par un groupe d homme" title="Lady Gaga Acapella par un groupe d homme" xmlUrl="http://www.youtube.com/watch?v=QdDkZBr4FWk&amp;feature=youtube_gdata"/>
+				<outline type="rss" text="Julien l'ingenieur en informatique dans l'émission &quot;l'Amour est aveugle&quot; sur TF1" title="Julien l'ingenieur en informatique dans l'émission &quot;l'Amour est aveugle&quot; sur TF1" xmlUrl="http://www.youtube.com/watch?v=0dhIUoWlAZk&amp;feature=youtube_gdata"/>
+				<outline type="rss" text="Jay Z Performs on Saturday Night Live Part 1/2 HD" title="Jay Z Performs on Saturday Night Live Part 1/2 HD" xmlUrl="http://www.youtube.com/watch?v=vKmH9bGWpvc&amp;feature=youtube_gdata"/>
+				<outline type="rss" text="Chelsea 8 - 0 Wigan Athletic (9/5/2010)" title="Chelsea 8 - 0 Wigan Athletic (9/5/2010)" xmlUrl="http://www.youtube.com/watch?v=Yf9S4M9-3OE&amp;feature=youtube_gdata"/>
+				<outline type="rss" text="Julien 24 ans ingenieur en informatique dans l'emission l'amour est aveugle sur TF1" title="Julien 24 ans ingenieur en informatique dans l'emission l'amour est aveugle sur TF1" xmlUrl="http://www.youtube.com/watch?v=JfmvIG5Vejw&amp;feature=youtube_gdata"/>
+				<outline type="rss" text="Chelsea vs Wigan 8-0 5/9/2010 All Goals &amp; Highlights Premier League Champions 2009/2010" title="Chelsea vs Wigan 8-0 5/9/2010 All Goals &amp; Highlights Premier League Champions 2009/2010" xmlUrl="http://www.youtube.com/watch?v=zfdQoKrzuEM&amp;feature=youtube_gdata"/>
+				<outline type="rss" text="Aulas s'enerve" title="Aulas s'enerve" xmlUrl="http://www.youtube.com/watch?v=pcR6Sxxy__A&amp;feature=youtube_gdata"/>
+				<outline type="rss" text="Clip officiel de l'équipe de France de Football - world cup 2010" title="Clip officiel de l'équipe de France de Football - world cup 2010" xmlUrl="http://www.youtube.com/watch?v=hPp-hggbIOE&amp;feature=youtube_gdata"/>
+				<outline type="rss" text="Le missile de Steyn" title="Le missile de Steyn" xmlUrl="http://www.youtube.com/watch?v=zFjmqU4myWk&amp;feature=youtube_gdata"/>
+				<outline type="rss" text="AMA Supercross in Las Vegas 2010 Last Laps (Lites Class)" title="AMA Supercross in Las Vegas 2010 Last Laps (Lites Class)" xmlUrl="http://www.youtube.com/watch?v=DsyW_zM9X1g&amp;feature=youtube_gdata"/>
+				<outline type="rss" text="Julien 24 ans ingenieur en informatique dans l'emission l'amour est aveugle sur TF1" title="Julien 24 ans ingenieur en informatique dans l'emission l'amour est aveugle sur TF1" xmlUrl="http://www.youtube.com/watch?v=eT6powTRbb8&amp;feature=youtube_gdata"/>
+			</outline>
+		</outline>
+	</body>
+</opml>

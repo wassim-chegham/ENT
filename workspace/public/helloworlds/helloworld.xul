@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="ISO-8859-1" ?>
+<window title="Hello world"
+		xmlns="http://www.mozilla.org/keymaster/gatekeeper/there.is.only.xul">
+<description>Hello world</description>
+<label value="Hello world" />
+</window>

@@ -1,0 +1,48 @@
+
+CHAHIER DES CHARGES POUR PLUGIN ENT (JQUERY):
+--------------------------------------------
+
+	I - Interface (UI):
+	
+	1. introduction:
+		
+		l'interface est divisée en trois parties principales: la barre du menu générale (bloc A), le listing des fichiers (bloc B) 
+		et la visualisation du contenur des fichiers (bloc C).
+		Quand l'utilisateur choisi un fichier en parcourant le listing dans le bloc B, le contenu de ce dernier s'affiche dans le bloc C;
+		Une fois que le contenu du fichier est affiché, l'utilisateur pourra:
+		
+			* renomer le fichier, 
+			* déplacer le fichier dans un autre répertoire,
+			* supprimer le fichier,
+			* afficher des informations supplémentaires concernant le fichier,
+			* telecharger le fichier,
+			* imprimer le fichier.
+			(ces actions seront détaillés dans ultérieurement)	
+	
+		Ces actions seront mis à dispotion sous forme d'un sous menu, placé dans la bloc C, et sous forme d'un menu contextuel.
+	
+	2. La barre de menu génerale - BLOC A:
+	
+		Celle ci sera placée en haut, et contiendra les actions suivantes:
+		*
+		*
+		*
+		*
+		*
+		*
+		
+	3. Le listing des fichiers - BLOC B:
+	
+		Ce bloc permettra à l'utlisateur de parcourir le contenu des répertoires, et de cliquer sur un fichier afin de l'ouvir dans le bloc C.
+		Toutefois, l'administrateur pourra empêcher le listing de certains fichiers et/ou répértoires!
+		
+	4. La visualisation des fichiers - BLOC C:
+		
+		Ce bloc est la pièce maitraisse de ce plugin, car c'est au sein de celui là que tout va se dérouler.
+		Quand l'utilisateur clique sur un fichier, le contenu de ce dernier s'ouvre dans ce bloc. Les différents fichiers ouverts 
+		seront organisé à l'aide d'onglets, un onglet par fichier. 
+		Dans chaque onglet on pourra lire le nom du fichier, et pourra fermer l'onglet.
+	
+	
+	
+	

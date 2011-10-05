@@ -1,0 +1,618 @@
+html, body {
+    height: 100%;
+	width: 100%;
+    margin: 0;
+    padding: 0;
+/*
+	overflow:hidden;
+
+*/}
+
+body {
+    font-family: Verdana, sans-serif;
+    font-size: 11px;
+    line-height: 18px;
+    user-select: none;
+    -khtml-user-select: none;
+    -moz-user-select: none;
+	background: #f0f0f0;
+}
+
+a, button {
+    outline: none;
+    cursor: pointer;
+}
+
+div#ent {
+    margin: 0;
+    padding: 0;
+	width:100%;
+	height:100%;
+	overflow:hidden;
+}
+
+form#login-form {
+    width:211px;
+    border-right: 2px solid #aaa;
+}
+
+form#login-form label{
+    width:80px;
+    float:left;
+    text-align:right;
+    font-weight:bold;
+    padding-right:5px;
+}
+
+form#login-form input{
+    width:100px;
+    border:1px solid #eee;
+    margin:2px;
+}
+
+form#login-form a#login-btn{
+    margin-left:122px;
+}
+
+div#message-welcome a:hover{
+    color:#80bde9;
+}
+
+p#try-demo {
+    float:right;
+    padding:0px 20px 10px 10px;
+}
+div#panels {
+    min-height: 100px;
+	height: 100%;
+}
+
+div#menu {
+    height: 20px;
+    border-bottom: 1px solid #aaa;
+    padding: 2px 0 2px 2px;
+}
+
+a.user-panel-btn
+{
+    float:right;
+    padding-right:20px;
+}
+
+div#folders {
+    width: 400px;
+    padding: 5px;
+    float: left;
+}
+
+ul#folders-menu
+{
+	
+}
+
+div#folders-list {
+    background: #ffffff;
+    border: 1px solid #aaa;
+    padding: 0;
+    margin: 0;
+    width: 100%;
+    height: 100%;
+    overflow: auto;
+}
+
+div#liste ul {
+    padding: 5px 0 0 5px;
+}
+
+div#file {
+    padding: 5px 5px 5px 0;
+    overflow: auto;
+}
+
+div#file-content {
+    padding: 0;
+    margin: 0;
+    width: 100%;
+    height: 100%;
+    border: 1px solid #aaa;
+    background: white url(images/ent_v001.jpg) no-repeat center center;
+}
+
+div#file-content pre {
+    background: none !important;
+    padding: 0;
+    margin: 0;
+    width: 100%;
+    height: 100%;
+    overflow: scroll;
+    border: 0 none !important;
+    font: 12px monospace;
+    cursor: default;
+}
+
+div#file-content span.binary-download-help
+{
+    background: transparent url(images/bulle.png) no-repeat center center;
+    display:block;
+    height:45px;
+    margin-left:270px;
+    position:relative;
+    top:-10px;
+    width:150px;
+}
+
+.highlighted {
+    background-color: #d6e9f8 !important;
+}
+
+span.button {
+    height: 17px;
+    width: 17px;
+    display: block;
+    z-index: 10;
+    background-color: transparent;
+    background-image: url('http://cheghamwassim.com/tools/js/jquery-ui/v1.7.2/css/redmond/images/ui-icons_6da8d5_256x240.png');
+    background-attachment: scroll;
+    background-repeat: no-repeat;
+    float: left;
+    cursor: pointer;
+}
+
+div.block-tabs {
+    border-top: 1px solid #aaa;
+    border-right: 1px solid #aaa;
+    border-left: 1px solid #aaa;
+    width: 100%;
+    -moz-border-radius: 4px 4px 0 0;
+    -webkit-border-radius: 4px 4px 0 0;
+    background: #f0f0f0;
+    height: 20px;
+    overflow: hidden;
+}
+
+ul.sub-menu  {
+    list-style: none;
+    background: #C2E3FC none repeat scroll 0 0;
+    border-top: 1px solid #808080;
+    margin: 0 -5px;
+    padding: 9px 10px 17px;
+    position: relative;
+}
+
+ul.sub-menu li {
+    float: left;
+    margin: -6px 0 0;
+    padding: 0;
+}
+
+
+ul.sub-menu li a {
+    -moz-border-radius: 4px;
+    -webkit-border-radius: 4px;
+    color: #6DA8D5;
+    float: left;
+    font-size: 10px;
+    height: 17px;
+    margin: 0 1px;
+    padding: 0 5px 0 0;
+    text-decoration: none;
+    border: 1px solid transparent;
+}
+
+ul.sub-menu li a.hover {
+    color: #217BC0;
+}
+
+ul.sub-menu li a.disabled {
+    color: #787878;
+	cursor: default; !important;
+}
+
+ul.sub-menu li a.disabled span.button {
+    cursor: default; !important;
+    background-image: url('http://cheghamwassim.com/tools/js/jquery-ui/v1.7.2/css/redmond/images/ui-icons_787878_256x240.png') !important;
+}
+
+
+.new {
+    background-position: 0px -95px;
+}
+
+.rename {
+    background-position: -64px -111px;
+}
+
+.delete {
+    background-position: -177px -95px;
+}
+
+.move {
+    background-position: -16px -95px;
+}
+
+.download {
+    background-position: -15px -63px;
+}
+
+.upload {
+    background-position: -46px -63px;
+}
+
+.infos {
+    background-position: -128px -127px;
+}
+
+.print {
+    background-position: -160px -95px;
+}
+
+div.block-tabs ul#file-menu li.hidden-tabs {
+    position: absolute;
+    right: 30px;
+    top: 7px;
+    z-index: 10;
+    width: 30px;
+    cursor: pointer;
+}
+
+
+div.block-tabs a:hover {
+    border-color: transparent;
+    background: transparent;
+    -moz-border-radius: 0;
+    -webkit-border-radius: 0;
+}
+
+
+div.block-tabs ul.visible-tabs {
+    padding: 0;
+    margin: -1px 6px;
+    list-style: none;
+    z-index: 2;
+    height: 22px;
+    position: relative;
+    overflow: hidden;
+    width: 2000px;
+}
+
+div.block-tabs ul.visible-tabs li {
+    float: left;
+    margin: 0;
+    padding: 0 5px 2px 14px;
+    cursor: pointer;
+    -moz-border-radius: 4px 4px 0 0;
+    -webkit-border-radius: 4px 4px 0 0;
+    background-color: #f0f0f0;
+}
+
+div.block-tabs ul.visible-tabs li.focus {
+    background-color: #c2e3fc;
+    border-left: 1px solid #808080;
+    border-right: 1px solid #808080;
+    border-top: 1px solid #808080;
+    padding-bottom: 5px;
+}
+
+/*
+ div#logo
+ {
+ background:transparent url(images/ent_v000_small.png) no-repeat center center;
+ height:121px;
+ width:178px;
+ float:left;
+ }
+ */
+br.clear {
+    clear: both;
+}
+
+div#folders div.ui-resizable-handle {
+    background: transparent;
+    width: 4px;
+    right: -1px;
+}
+
+div#folders div.ui-resizable-e span#resize-icon {
+    background: transparent url('http://cheghamwassim.com/tools/js/jquery-ui/v1.7.2/css/redmond/images/ui-icons_6da8d5_256x240.png') no-repeat scroll -6px -225px;
+    display: block;
+    height: 16px;
+    position: relative;
+    top: 50%;
+    width: 4px;
+    cursor: pointer;
+}
+
+span.close-tab {
+    background: transparent url('http://cheghamwassim.com/tools/js/jquery-ui/v1.7.2/css/redmond/images/ui-icons_6da8d5_256x240.png') no-repeat scroll -33px -194px;
+    display: block;
+    display: block;
+    float: right;
+    height: 14px;
+    position: relative;
+    top: 3px;
+    width: 14px;
+}
+
+span.close-tab:hover {
+    background: url('http://cheghamwassim.com/tools/js/jquery-ui/v1.7.2/css/redmond/images/ui-icons_217bc0_256x240.png') no-repeat scroll -33px -194px;
+}
+
+img.images {
+    border: 1px solid #eee;
+    padding: 5px;
+    background: white;
+	width: 10em;
+	height: 10em;
+}
+
+div#file-content > .ui-draggable
+{
+	cursor: move;
+}
+
+.place-holder {
+    background: #C2E3FC !important;
+    height: 22px;
+}
+
+div#folder-tabs
+{
+	height: 45px;
+}
+
+div#files-tabs span#toggle-hidden-list {
+    background: transparent url('http://cheghamwassim.com/tools/js/jquery-ui/v1.7.2/css/redmond/images/ui-icons_6da8d5_256x240.png') no-repeat scroll;
+    background-position: -49px -190px;
+    position: absolute;
+    right: 20px;
+    top: 53px;
+}
+
+div#files-tabs span.down {
+    background-position: -65px -190px !important;
+}
+
+div#files-tabs span#toggle-hidden-list strong {
+    left: 16px;
+    position: relative;
+}
+
+ul.hidden-tabs {
+    -moz-border-radius: 0 0 4px 4px;
+    -webkit-border-radius: 0 0 4px 4px;
+    background: #C2E3FC none repeat scroll 0 0;
+    border-bottom: 1px solid #AAAAAA;
+    border-left: 1px solid #AAAAAA;
+    border-right: 1px solid #AAAAAA;
+    position: absolute;
+    right: 14px;
+    top: 63px;
+    z-index: 10;
+    padding: 0 32px 10px;
+    margin: 11px 0;
+}
+
+ul.hidden-tabs li {
+    list-style: none;
+    margin: 0 -24px;
+    padding: 0;
+}
+
+ul.hidden-tabs li a {
+    padding: 0 6px 0 0;
+    color: #aaa;
+    text-decoration: none;
+}
+
+.wait {
+    background-image: url('http://cheghamwassim.com/tools/js/jquery/plugins/filetree/images/spinner.gif') !important;
+    background-repeat: no-repeat;
+    background-position: center center !important;
+    cursor: wait !important;
+}
+
+.selected {
+    /*
+background-color: #DFE8F6;
+*/
+background-color: #ff8;
+}
+
+.left-border {
+    border-left: 1px solid #aaa;
+    border-top: 1px solid #aaa;
+    border-bottom: 1px solid #808080;
+    -moz-border-radius: 4px 0 0 0;
+    -webkit-border-radius:: 4px 0 0 0;
+}
+
+.right-border {
+    border-right: 1px solid #aaa;
+    border-top: 1px solid #aaa;
+    border-bottom: 1px solid #808080;
+    -moz-border-radius: 4px 0 0 0;
+    -webkit-border-radius: 4px 0 0 0;
+}
+
+li.borders {
+    border: 1px solid #999 !important;
+    background: #c0c0c0;
+    -moz-border-radius: 4px;
+    -webkit-border-radius: 4px;
+}
+
+input[type="text"], input[type="password"] {
+    border: 0px none;
+    padding: 2px;
+    color: #6da8d5;
+    font-weight: bolder;
+    background-position: right center !important;
+}
+
+div#new-file-location {
+    min-height: 100px;
+}
+
+div#new-file-location, div#new-file-path {
+    border: 1px solid #eee;
+    margin: 2px;
+    padding: 3px;
+    max-height: 100px;
+    overflow: auto !important;
+}
+
+#add-new-folder {
+    background-position: 0 -190px;
+}
+
+.refresh-list-folders {
+    background-position: -65px -78px;
+    left: -3px;
+    position: relative;
+    top: -3px;
+}
+
+#full-file-path input[type =
+"text"] {
+    width: 55px;
+    font-weight: bolder;
+}
+
+.float-left {
+    float: left !important;
+    margin-right: 4px;
+}
+
+.float-right {
+    float: right !important;
+    margin-left: 4px;
+}
+
+p.clear-both {
+    clear: both;
+}
+
+p.action-success {
+    color: green;
+}
+
+p.action-failure {
+    color: red;
+}
+
+.ui-resizable-handle {
+    z-index: 1;
+}
+
+div.dialog ul {
+    padding: 0;
+    margin: 10px;
+    list-style: none;
+}
+
+div#action-infos-file ul li strong {
+    display: block;
+    float: left;
+    width: 90px;
+}
+
+div#action-download-file ul {
+    text-align: center;
+}
+
+div#action-download-file ul li {
+    float: left;
+}
+
+div#action-download-file ul li a {
+    border: 1px solid #eee;
+    -moz-border-radius: 4px;
+    -webkit-border-radius: 4px;
+    display: block;
+    margin: 10px;
+    padding: 10px;
+    text-decoration: none;
+    width: 100px;
+    text-align: center;
+    color: #aaa;
+    font-size: 14px;
+    font-weight: bolder;
+    background: url('http://cheghamwassim.com/tools/js/jquery-ui/v1.7.2/css/redmond/images/ui-bg_glass_85_dfeffc_1x400.png') repeat-x scroll center center;
+}
+
+div#action-download-file ul li a:hover {
+    border-color: #80bde9;
+    color: #80bde9;
+    background-image: url('http://cheghamwassim.com/tools/js/jquery-ui/v1.7.2/css/redmond/images/ui-bg_glass_75_d0e5f5_1x400.png');
+}
+
+div#file-status-bar div {
+	float:left;
+}
+
+div#folders-status-bar {
+    padding: 0;
+    margin: 0;
+}
+
+ol
+{
+	background: white;
+}
+
+.full-screen-mode
+{
+	background:#EEEEEE none repeat scroll 0 0;
+	border:1px solid #AAAAAA;
+	height:99%;
+	left:-1px;
+	overflow:hidden !important;
+	position:absolute;
+	top:-1px;
+	width:99%;
+	z-index:99999;
+	padding: 3px 5px 3px 3px !important;
+}
+
+.image-full-screen
+{
+	position:absolute;
+}
+
+.error-input
+{
+    border-color: red !important;
+}
+
+div#action-upload div#upload-response
+{
+    width:100%;
+    height:20px;
+}
+
+div#action-report-bug form#report-bug label
+{
+    font-weight: bold;
+    float:left;
+    width:80px;
+    margin-right:10px;
+    text-align:right;
+}
+
+div#action-report-bug form#report-bug input[type="text"],
+div#action-report-bug form#report-bug textarea
+{
+    width:270px;
+    border:1px solid #eee;
+    padding:2px;
+    color: #262626;
+}
+
+div#action-report-bug form#report-bug input[type="submit"]
+{
+    width:80;
+    border:1px solid #aaa;
+    float:right;
+}
+
+

@@ -1,0 +1,43 @@
+
+Date: 16:24:31 17-01-2010
+User: wassim
+Title: cv
+Description: d
+------------------------------------------------
+
+Date: 15:06:28 28-01-2010
+User: sylvain
+Title: 
+Description: Deux ou trois trucs: 
+_ Souvent il m'affiche le code html plutôt que le fichier que j'ai envie d'afficher.
+
+_On peut ouvrir plusieurs fois le même fichier (s'il est déjà ouvert tu devrais focus dessus)
+
+_En mode ENT "plein écran", lorsqu'on ouvre plusieurs fenetres, le compteur à droite ne se met pas à jour lorsqu'on en ferme une (J'ouvre 3 fenetres, j'ai beau toutes les fermer, il reste à 3)
+
+Sinon il est vraiment pratique cet ENT !
+------------------------------------------------
+
+Date: 12:52:42 29-01-2010
+User: sylvain
+Title: Telecharger un fichier ?
+Description: On ne peut telecharger que des dossiers, tu veux pas ajouter l'option pour les fichiers seuls aussi ?
+------------------------------------------------
+
+Date: 12:52:52 29-01-2010
+User: sylvain
+Title: 
+Description: Autant pour moi..............
+------------------------------------------------
+
+Date: 19:04:40 20-04-2010
+User: anonymous-148.60.5.98
+Title: 
+Description: 
+------------------------------------------------
+
+Date: 12:43:09 30-05-2010
+User: anonymous-79.95.159.47
+Title: demo
+Description: demo
+------------------------------------------------
